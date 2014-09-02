@@ -1,0 +1,41 @@
+Catalog Nr.	Family	Type status	Species Name	Author	Determined by	Date descr	Country	Locality	Lat.	Lat_dec.	Long.	Long_dec	Ecology	Column	Altitude	Date	Year	Collector	Notes	Sex
+ZFMK Sc0001	Buthidae		Androctonus amoreuxi	(Audouin, 1826)	D.Determinator		ALGERIA	Locality								25.iii.1976	1976	C.Collector & M.Coll		
+ZFMK Sc0002	Buthidae		Androctonus amoreuxi	(Audouin, 1826)	D.Determinator		ALGERIA	Locality								23.v.1976	1976	C.Collector & M.Coll		
+ZFMK Sc0003	Buthidae		Androctonus amoreuxi	(Audouin, 1826)	D.Determinator		EGYPT	Locality										C.Collector & M.Coll	no data	
+ZFMK Sc0004	Buthidae		Androctonus amoreuxi	(Audouin, 1826)	D.Müllerß		EGYPT	Locality										C.Collector & M.Coll	"""coll. Oberthür"""	
+ZFMK Sc0005	Buthidae		Androctonus australis	(Linné, 1758)				"""Locality"""								iii.1892	1892		had dried up	
+ZFMK Sc0006	Buthidae		Androctonus australis	(Linné, 1758)				"""Locality"""								iii.1892	1892		had dried up	
+ZFMK Sc0007	Buthidae		Androctonus australis	(Linné, 1758)												20.iii.?		Collector	had dried up	
+ZFMK Sc0008	Buthidae		Androctonus australis	(Linné, 1758)	D.Determinator															
+ZFMK Sc0009	Buthidae		Androctonus australis	(Linné, 1758)														Collector	"""Rennes"""	
+ZFMK Sc0010	Buthidae		Androctonus australis	(Linné, 1758)			ALGERIA	Saâda								20.iii.1976	1976	Collector et al.		
+ZFMK Sc0011	Buthidae		Androctonus australis	(Linné, 1758)			ALGERIA	Locality											Oberthür ex Changlome	
+ZFMK Sc0012	Buthidae		Androctonus australis	(Linné, 1758)			ALGERIA	Locality											R. Oberthür ex Changlome	
+ZFMK Sc0013	Buthidae		Androctonus australis	(Linné, 1758)	D.Determinator		ALGERIA	Locality								iii.1892	1892		had dried up	
+ZFMK Sc0014	Buthidae		Androctonus australis	(Linné, 1758)			ALGERIA	Locality								iii.1913	1913		had dried up	
+ZFMK Sc0015	Buthidae		Androctonus australis	(Linné, 1758)			EGYPT	Locality								i.1897	1897		had dried up	
+ZFMK Sc0016	Buthidae		Androctonus australis	(Linné, 1758)			ETHIOPIA	Locality								18.vi.1976	1976	M. Collector		
+ZFMK Sc0017	Buthidae		Androctonus australis	(Linné, 1758)			TUNISIA	Locality								v.1976	1976	M. Collector		
+ZFMK Sc0018	Buthidae		Androctonus bicolor	Ehrenberg, 1828			EGYPT	Locality								ix.1992	1992	M. Collector		
+ZFMK Sc0019	Buthidae		Androctonus crassicauda	(Olivier, 1807)	D.Determinator	1988	IRAQ	Locality								x.1976	1976	M. Collector		
+ZFMK Sc0020	Buthidae		Androctonus hoggarensis	(Pallary, 1929)			ALGERIA	Locality								9.-10.iv.1976	1976	M. Collector		
+ZFMK Sc0021	Buthidae		Babycurus gigas	Kraepelin, 1896	D.Determinator														had dried up	
+ZFMK Sc0022	Buthidae		Babycurus gigas	Kraepelin, 1896															had dried up	
+ZFMK Sc0023	Buthidae		Babycurus jacksoni	(Pocock, 1902)			KENYA												had dried up	
+ZFMK Sc0024	Buthidae		Babycurus sp.?					"""CÔTE D'AFRIQUE"""											Oberthür ex Dieterle	
+ZFMK Sc0025	Buthidae		Buthidae, juvenile				EGYPT	Locality								13.iii.1898	1898		had dried up	
+ZFMK Sc0026	Buthidae		Buthus atlantis atlantis	Pocock, 1889			ALGERIA	Algiers								1893	1893		had dried up	
+ZFMK Sc0027	Buthidae		Buthus occitanus	(Amoreux, 1789)															had dried up	
+ZFMK Sc0028	Buthidae		Buthus occitanus	(Amoreux, 1789)	D.Determinator														had dried up	
+ZFMK Sc0029	Buthidae		Buthus occitanus	(Amoreux, 1789)	D.Determinator														had dried up	
+ZFMK Sc0030	Buthidae		Buthus occitanus	(Amoreux, 1789)	D.Determinator														had dried up	
+ZFMK Sc0031	Buthidae		Buthus occitanus	(Amoreux, 1789)	D.Determinator														had dried up	
+ZFMK Sc0032	Buthidae		Buthus occitanus	(Amoreux, 1789)	D.Determinator														had dried up	
+ZFMK Sc0033	Buthidae		Buthus occitanus	(Amoreux, 1789)	D.Determinator														had dried up	
+ZFMK Sc0034	Buthidae		Buthus occitanus	(Amoreux, 1789)			ALGERIA	"""Sahara"""								1972	1972	D. Collector ?		
+ZFMK Sc0035	Buthidae		Buthus occitanus	(Amoreux, 1789)			ALGERIA	Locality								1966/67	1966/67	D. Collector ?		
+ZFMK Sc0036	Buthidae		Buthus occitanus	(Amoreux, 1789)			ALGERIA	Locality								1892	1892		had dried up	
+ZFMK Sc0037	Buthidae		Buthus occitanus	(Amoreux, 1789)			ALGERIA	Locality								v. 1893	 1893		had dried up	
+ZFMK Sc0038	Buthidae		Buthus occitanus	(Amoreux, 1789)			ALGERIA	Locality								1892	1892		had dried up	
+ZFMK Sc0039	Buthidae		Buthus occitanus	(Amoreux, 1789)			ALGERIA	Locality											Oberthür ex Changlome	
+ZFMK Sc0040	Buthidae		Buthus occitanus	(Amoreux, 1789)			EGYPT	Locality								28.iii.1898	1898		had dried up	
