@@ -1,4 +1,4 @@
-Zusammenstellung der Dateien für Diversity Workbench der verschiedenen Sektionen
+Dateien für Diversity Workbench
 ======
 
-Importschemata, Labels und Referenz-Tabellen
+Importschemata, Labels und Referenz-Tabellen für den Im- und Export der Excel-Tabellen der verschiedenen Sektionen am ZFMK
