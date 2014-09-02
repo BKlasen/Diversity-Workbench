@@ -1,0 +1,41 @@
+Catalog Nr.	Type status	Family	Genus Name	Species Name	Author	Date descr.	Determined by	Date det.	Country	Locality	Lat	Long	Lat_dec	Long_dec	Ecology	Altitude	Date	Collector	Specimens	feature	Male	Female	juvenile	Age	Gender	Anzahl	Notes
+ZFMK Pa 00001		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local							16.vi.1984	C.Collector	4 chel.	4 chel.			4	juvenile		4	12 f
+ZFMK Pa 00002		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local							12.vi.1984	C.Collector	2 chel.	2 chel.		1	2	mixed	female	2	6 c
+ZFMK Pa 00003		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local							10.vi.1984	C.Collector	2 chel.	2 chel.			2	juvenile		2	2 b
+ZFMK Pa 00004		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local							6.xii.1984	C.Collector	1 chel.	1 chel.			1	juvenile		1	8 c
+ZFMK Pa 00005		Ammotheidae	Achelia	spec.			D.‹mlauﬂte		CROATIA	Locality, Local							15.ix.1984	C.Collector	1 chel.	1 chel.			1	juvenile		1	7 e
+ZFMK Pa 00006		Ammotheidae	Achelia	spec.			D.‹mlauﬂte		CROATIA	Locality, Local							19.ix.1984	C.Collector	1 chel.	1 chel.			1	juvenile		1	21 d
+ZFMK Pa 00007		Ammotheidae	Achelia	spec.			D.‹mlauﬂte		CROATIA	Locality, Local							24.iv.1984	C.Collector	3 chel.	3 chel.			3	juvenile		3	17 a
+ZFMK Pa 00008		Ammotheidae	Achelia	spec.			D.‹mlauﬂte		CROATIA	Locality, Local							24.iv.1984	C.Collector	2 chel.	2 chel.			2	juvenile		2	16 b
+ZFMK Pa 00009		Ammotheidae	Achelia	spec.			D.‹mlauﬂte		CROATIA	Locality, Local							7.xii.1984	C.Collector	1 chel.	1 chel.			1	juvenile		1	10 d
+ZFMK Pa 00010		Ammotheidae	Achelia	spec.			D.‹mlauﬂte		CROATIA	Locality, Local							11.vi.1984	C.Collector	1 chel.	1 chel.			1	juvenile		1	3 c
+ZFMK Pa 00011		Ammotheidae	Achelia	spec.			D.‹mlauﬂte		CROATIA	Locality, Local							12.ix.1984	C.Collector	1							1	4 c
+ZFMK Pa 00012		Ammotheidae	Achelia	spec.			D.‹mlauﬂte		CROATIA	Locality, Local							12.ix.1984	C.Collector	2 f			2		adult	female	2	5 c
+ZFMK Pa 00013		Ammotheidae	Achelia	spec.			D.‹mlauﬂte		CROATIA	Locality, Local							21.iv.1984	C.Collector	1 chel.	1 chel.			1	juvenile		1	10 d
+ZFMK Pa 00014		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local							21.iv.1984	C.Collector	1 chel.	1 chel.			1	juvenile		1	
+ZFMK Pa 00015		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local							15.vi.1984	C.Collector	2 chel.	2 chel.			2	juvenile		2	10 c
+ZFMK Pa 00016		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local							21.iv.1984	C.Collector	1 chel.	1 chel.			1	juvenile		1	9 b
+ZFMK Pa 00017		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local							21.iv.1984	C.Collector	1 chel.	1 chel.			1	juvenile		1	13 c
+ZFMK Pa 00018		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local						3	20.ix.1966	C.Collector	1 f			1		adult	female	1	Laurencia obtusa
+ZFMK Pa 00019		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local							20.ix.1966	C.Collector	1 chel.	1 chel.			1	juvenile		1	Sargassum linifolium
+ZFMK Pa 00020		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local						2,5	20.ix.1966	C.Collector	1 f			1		adult	female	1	Cystoseira adriatica
+ZFMK Pa 00021		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local						5	20.ix.1966	C.Collector	2 f			2		adult	female	2	Cystoseira adriatica
+ZFMK Pa 00022		Ammotheidae	Achelia	spec.			D.Determinator		CROATIA	Locality, Local							18.iii.1984	C.Collector	1 chel.	1 chel.			1	juvenile		1	19 b
+ZFMK Pa 00023		Ammotheidae	Achelia	spec.			D.Determinator		ITALY	Locality, Local			37.28333	15.18333			7.xii.1972	C.Collector	1 immat.	1 immat.			1	juvenile		1	Posidonia
+ZFMK Pa 00024		Ammotheidae	Achelia	assimilis	(Haswell)	1885	D.Determinator	17.vi.1988	SOCIETY ISLANDS	Locality, Local			-17.53333	-149.83333		0,5-1	25.iii.1988	C.Collector	1 m		1			adult	male	1	dead corals
+ZFMK Pa 00025		Ammotheidae	Achelia	assimilis	(Haswell)	1885			MALAYSIA										2 f, 1 juv.			2	1	mixed	mixed	3	MAS-16
+ZFMK Pa 00026		Ammotheidae	Achelia	spec. (cf. echinata)			D.Determinator		ITALY	Locality, Local			38.25	15.6		20	5.x.1973	C.Collector	2 f			2		adult	female	2	
+ZFMK Pa 00027		Ammotheidae	Achelia	spec. (cf. echinata)			D.Determinator		CROATIA	Locality, Local						4	23.ix.1966	C.Collector	1 f			1		adult	female	1	Sargassum linifolium
+ZFMK Pa 00028		Ammotheidae	Achelia	spec. (cf. echinata)			D.Determinator		CROATIA	Locality, Local							11.vi.1984	C.Collector	1 f			1		adult	female	1	
+ZFMK Pa 00029		Ammotheidae	Achelia	spec. (cf. echinata)			D.Determinator		ITALY	Locality			37.28333	15.18333			15.ix.1973	C.Collector	1 f			1		adult	female	1	Posidonia
+ZFMK Pa 00030		Ammotheidae	Achelia	spec. (cf. echinata)			D.Determinator		MOROCCO								1979	C.Collector	1 f, 1 chel.	1 chel.		1	1	mixed	mixed	2	1979/24
+ZFMK Pa 00031		Ammotheidae	Achelia	spec. (cf. echinata)			D.Determinator		CROATIA	Locality, Local							18.ix.1984	C.Collector	5 f			5		adult	female	5	3 b
+ZFMK Pa 00032		Ammotheidae	Achelia	echinata	Hodge	1864	D.Determinator		CROATIA	Locality, Local							14.vi.1984	C.Collector	1 m, 1 chel.	1 chel.	1		1	mixed	male	2	7 b
+ZFMK Pa 00033		Ammotheidae	Achelia	echinata	Hodge	1864	D.Determinator		CROATIA	Locality, Local							12.vi.1984	C.Collector	3 f, 3 chel.	3 chel.		3	3	mixed	mixed	6	
+ZFMK Pa 00034		Ammotheidae	Achelia	echinata	Hodge	1864	D.Determinator		CROATIA	Locality, Local							10.vi.1984	C.Collector	1 m, 1 f		1	1		adult	mixed	2	2 d
+ZFMK Pa 00035		Ammotheidae	Achelia	echinata	Hodge	1864	D.Determinator		CROATIA	Locality, Local							16.vi.1984	C.Collector	6 f			6		adult	female	6	12 e
+ZFMK Pa 00036		Ammotheidae	Achelia	echinata	Hodge	1864	D.Determinator		CROATIA	Locality, Local							10.ix.1984	C.Collector	1 m		1			adult	male	1	
+ZFMK Pa 00037		Ammotheidae	Achelia	echinata	Hodge	1864	D.Determinator		CROATIA	Locality, Local							17.ix.1984	C.Collector	3 m ovig.	3 m ovig.	3			adult	male	3	15 a
+ZFMK Pa 00038		Ammotheidae	Achelia	echinata	Hodge	1864	D.Determinator		CROATIA	Locality, Local							17.iv.1984	C.Collector	1 f			1		adult	female	1	4 b
+ZFMK Pa 00039		Ammotheidae	Achelia	echinata	Hodge	1864	D.Determinator		CROATIA	Locality, Local							22.iv.1984	C.Collector	1 m, 1 f		1	1		adult	mixed	2	14 e
+ZFMK Pa 00040		Ammotheidae	Achelia	echinata	Hodge	1864	D.Determinator		CROATIA	Locality, Local							16.vi.1984	C.Collector	3 m		3			adult	male	3	12 d
