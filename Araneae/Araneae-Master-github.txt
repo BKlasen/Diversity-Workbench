@@ -1,0 +1,41 @@
+Catalog Nr.	Type status	Reservierung	Family	Genus Name	Species Name	Author	Date descr.	_Species	revision	Determined by	Date det.	Country	Admin.	Locality	Lat	Long	Lat_dec	Long_dec	coord_uncertainty_flag	coord_info	Ecology	Altitude m	Coll_Year	Coll_Date	Collector	Collectors	m	f	j	Anzahl	Notes	Gender
+ZFMK Ar00001	PT		Theraphosidae	Ornithoctonus	aureotibialis	Wirth & Striffler	2005	Ornithoctonus aureotibialis Wirth & Striffler 2005		Wirth & Striffler	2005	THAILAND		Bangkok	~13.8 N	~100.6 E	13,8	100,6	ca.						P. Schmidt	P. Schmidt		1		1		female
+ZFMK Ar00002	PT		Theraphosidae	Ornithoctonus	aureotibialis	Wirth & Striffler	2005	Ornithoctonus aureotibialis Wirth & Striffler 2005		Wirth & Striffler	2005	THAILAND		Southern Thailand									2000	xii.2000	M. Bullmer	M. Bullmer	1			1		male
+ZFMK Ar00003	PT		Theraphosidae	Haplopelma	longipes	Wirth & Striffler	2005	Haplopelma longipes Wirth & Striffler 2005		Wirth & Striffler	2005	THAILAND											2001	3.iii.2001	S. Capaninni	S. Capaninni		1		1		female
+ZFMK Ar00004	PT		Theraphosidae	Haplopelma	longipes	Wirth & Striffler	2005	Haplopelma longipes Wirth & Striffler 2005		Wirth & Striffler	2005	THAILAND											2001	15.xii.2001	T. Klein	T. Klein	1			1		male
+ZFMK Ar00005	HT		Pholcidae	Nita	elsaff	Huber & El-Hennawy	2007	Nita elsaff Huber & El-Hennawy 2007		Huber	2006	EGYPT		El Saff, Giza	29°57'N	31°28'E	29,95	31,46667					2003	1.iii.2003	M. Mohafez	M. Mohafez	1	1		2	1 f non-type	mixed
+ZFMK Ar00006			Pholcidae	Nita	elsaff	Huber & El-Hennawy	2007	Nita elsaff Huber & El-Hennawy 2007		Huber	2006	EGYPT		Cairo	30°06.7'N	31°17.8'E	30,11167	31,29667			in house		2004	19.i.2004	H. El-Hennawy	H. El-Hennawy		1		1		female
+ZFMK Ar00007			Pholcidae	Nita	elsaff	Huber & El-Hennawy	2007	Nita elsaff Huber & El-Hennawy 2007		Huber	2006	EGYPT		Cairo	30°06.7'N	31°17.8'E	30,11167	31,29667			in house		2005	22.iii.2005	H. El-Hennawy	H. El-Hennawy	1			1		male
+ZFMK Ar00008			Pholcidae	Nita	elsaff	Huber & El-Hennawy	2007	Nita elsaff Huber & El-Hennawy 2007		Huber	2006	EGYPT		Cairo	30°06.7'N	31°17.8'E	30,11167	31,29667			in house		2005	26.iii.2005	H. El-Hennawy	H. El-Hennawy	1			1		male
+ZFMK Ar00009			Pholcidae	Ninetis	toliara	Huber & El-Hennawy	2007	Ninetis toliara Huber & El-Hennawy 2007		Huber	2006	MADAGASCAR		Isalo	23°12'S	45°05'E	-23,2	45,08333					1995	22.x.1995	T. Kopf	T. Kopf		1		1		female
+ZFMK Ar00010			Pholcidae	Ninetis	namibiae	Huber	2000	Ninetis namibiae Huber 2000		Huber	2006	NAMIBIA		Etosha National Park	19°02'S	16°29'E	-19,03333	16,48333					2006	xi.2006	A. Russell-Smith	A. Russell-Smith	4	1		5		mixed
+ZFMK Ar00011			Pholcidae	Ninetis	namibiae	Huber	2000	Ninetis namibiae Huber 2000		Huber	2006	NAMIBIA		Etosha National Park	19°02'S	16°29'E	-19,03333	16,48333					1997	17.i.1997	A. Russell-Smith	A. Russell-Smith	1			1		male
+ZFMK Ar00012			Pholcidae	Ninetis	namibiae	Huber	2000	Ninetis namibiae Huber 2000		Huber	2006	NAMIBIA		Etosha National Park, Helio Hill	19°02'S	16°29'E	-19,03333	16,48333					1998	15.iii.1998	A. Russell-Smith	A. Russell-Smith	1	1		2		mixed
+ZFMK Ar00013			Pholcidae	Ninetis	namibiae	Huber	2000	Ninetis namibiae Huber 2000		Huber	2006	NAMIBIA		Etosha National Park, Helio Hill	19°02'S	16°29'E	-19,03333	16,48333					1998	12.iii.1998	A. Russell-Smith	A. Russell-Smith		1		1		female
+ZFMK Ar00014			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1	2		3		mixed
+ZFMK Ar00015			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1	1		2		mixed
+ZFMK Ar00016			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1			1		male
+ZFMK Ar00017			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund		1		1		female
+ZFMK Ar00018			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund		2		2		female
+ZFMK Ar00019			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1			1		male
+ZFMK Ar00020			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund		1		1		female
+ZFMK Ar00021			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1			1		male
+ZFMK Ar00022			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1			1		male
+ZFMK Ar00023			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1			1		male
+ZFMK Ar00024			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	2			2		male
+ZFMK Ar00025			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1			1		male
+ZFMK Ar00026			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	3	3		6		mixed
+ZFMK Ar00027			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund		1		1		female
+ZFMK Ar00028			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	2	3		5		mixed
+ZFMK Ar00029			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1	1		2		mixed
+ZFMK Ar00030			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	3	4		7		mixed
+ZFMK Ar00031			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund		1		1		female
+ZFMK Ar00032			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	2	2		4		mixed
+ZFMK Ar00033			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund		1		1		female
+ZFMK Ar00034			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1			1		male
+ZFMK Ar00035			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund		1		1		female
+ZFMK Ar00036			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1	2		3		mixed
+ZFMK Ar00037			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1	1		2		mixed
+ZFMK Ar00038			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	2	3		5		mixed
+ZFMK Ar00039			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund		1		1		female
+ZFMK Ar00040			Thomisidae									KENYA	Western Prov.	Kakamega Forest	0°22'N	34°50'E	0,36667	34,83333					~2002	2001-2003	W. Freund	W. Freund	1	2		3		mixed
