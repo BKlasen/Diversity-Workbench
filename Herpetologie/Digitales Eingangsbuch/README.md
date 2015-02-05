@@ -102,7 +102,7 @@ _nicht mehr im Bestand_
 --> Transaction 1.1/TransactionID/for all: Transfer_Herpetologie  (als decisive markiert)  
 
 
-***zusätzliche Einstellungen:***
+***weitere Einstellungen:***
 * Attachment: "Import as new data" eingestellt  
 * Merging: Event, Coordinates WGS84, Named area und Altitude auf Merge eingestellt --> wenn alle Daten gleich sind, wird nur ein Fundort angelegt (ersichtlich an der EventID)   
 (Vorsicht: Bei der Änderung des Fundortes in einem Datensatz, wird dieser Fundort auch in allen anderen Datensätzen automatisch geändert.)  
