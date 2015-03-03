@@ -1,9 +1,5 @@
 ## Import Lautlabor  - Teil 1 - takes
 
-Bei der Digitalisierung der Bänder werden die Daten in zwei Excel-Tabellen aufgenommen:  
-- "Register audio files takes.xlsx"    (allg. Daten zu den Bändern, der Aufnahmesituation und-ort, des technischen Equipments, etc.)  
-- "Register audio files individuals.xlsx" (spezielle Daten zu einzelnen Individuen)  
-
 ### In der excel-Tabelle (Register audio files takes.xlsx) vorhandene Spalten und ihre Zuordnung im Import Wizard (DWB Version 3.0.7.7)  
 
 _tape no._ (laufende Nummer des Bandes, dreistellig)    
