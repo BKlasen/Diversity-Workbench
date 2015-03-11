@@ -1,0 +1,20 @@
+Catalog Nr.	Type status	Family	Genus Name	Species Name	Author	Date descr.	Determined by	Date det.	Host	Host Voucher	Country	Locality	Lat	Lat_dec	Long	Long_dec	Ecology	Altitude	Coll. Date	Collector	Specimens	Gender	Notes
+ZFMK Ps00001											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.53333	6.36'W	-6.6			14.ii.-13.iii.1983	Collector, Collector 7	1		Lichtfang 5
+ZFMK Ps00002											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.53333	6.36'W	-6.6			14.ii.-13.iii.1983	Collector, Collector 7	2		Block 2
+ZFMK Ps00003											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.53333	6.36'W	-6.6			14.ii.-13.iii.1983	Collector, Collector 7	13		BF Sav. Kont.; 19
+ZFMK Ps00004											Ivory Coast	Badenou S Mbingué	9.50'N	9.83333	5.50'W	-5.83333			xi.-xii.1983	C. Collector, Collector 9	12		GW oben
+ZFMK Ps00011											Ivory Coast	Bandama							23.iii.-7.iv.1984		4		BF7
+ZFMK Ps00012											Ivory Coast	Riv. Bagoé/Guingéréni							1.-16.iii		16		BF2 Sav D
+ZFMK Ps00013											Burkina Faso	Dérégoué							10.i.-25.ii.1983	H. Collector 1, M. Collector 2	7		Savanne unbelastet
+ZFMK Ps00014											Cameroon	Adamaoua	6.49'N	6.81667	12.52'E	12.86667		1200	ii.1980	W. Collector, P. Collector	1		Bodenfalle Galeriewald
+ZFMK Ps00023											Kenya	Langata	1°20'S	-1.33333	36°46'E	36.76667		1650	i.-ii.1999	T. Collector	1		ICIPE Property
+ZFMK Ps00024											Ivory Coast	Badenou/Mbingué							7.xi.-18.xii.1982	Collector 1, Collector 2, Collector3	2		HO2
+ZFMK Ps00037											Germany	N Aegidienberg, at Quirrenbach	50°41'N	50.68333	7°18'E	7.3			23.vi.2004	Arthropod Course	1		
+ZFMK Ps00038											Germany	Bonn Bad Godesberg Friesdorf, Annaberger Str.							vi.		1		F3
+ZFMK Ps00039											Germany	Bonn Bad Godesberg Friesdorf, Annaberger Str.							vi.		1		F1
+ZFMK Ps00040											Germany	ZFMK							viii.1983	Collector 6	3		Drosophilazucht
+ZFMK Ps00041											Germany	ZFMK							5.viii.1987	S. Collector	1		Garten
+ZFMK Ps00063											Gabon	Mont de Cristel							xi.2006	A. Alphabet	2		
+ZFMK Ps00064											Germany	"""Wolkenburg"""							4.vii.1967	Collector	1		
+ZFMK Ps00065									Leptopeza flavipes		Germany	Bonn, Rheinaue							3.vi.2005		1		
+ZFMK Ps00072											Germany	Bonn, 8 km SW Bad Godesberg	50°39'N	50.65	7°08'E	7.13333			7.ix.2002	Name	3		
