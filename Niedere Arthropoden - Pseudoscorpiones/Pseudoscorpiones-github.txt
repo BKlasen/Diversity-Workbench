@@ -1,20 +1,95 @@
-Catalog Nr.	Type status	Family	Genus Name	Species Name	Author	Date descr.	Determined by	Date det.	Host	Host Voucher	Country	Locality	Lat	Lat_dec	Long	Long_dec	Ecology	Altitude	Coll. Date	Collector	Specimens	Gender	Notes
-ZFMK Ps00001											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.53333	6.36'W	-6.6			14.ii.-13.iii.1983	Collector, Collector 7	1		Lichtfang 5
-ZFMK Ps00002											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.53333	6.36'W	-6.6			14.ii.-13.iii.1983	Collector, Collector 7	2		Block 2
-ZFMK Ps00003											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.53333	6.36'W	-6.6			14.ii.-13.iii.1983	Collector, Collector 7	13		BF Sav. Kont.; 19
-ZFMK Ps00004											Ivory Coast	Badenou S Mbingué	9.50'N	9.83333	5.50'W	-5.83333			xi.-xii.1983	C. Collector, Collector 9	12		GW oben
-ZFMK Ps00011											Ivory Coast	Bandama							23.iii.-7.iv.1984		4		BF7
-ZFMK Ps00012											Ivory Coast	Riv. Bagoé/Guingéréni							1.-16.iii		16		BF2 Sav D
-ZFMK Ps00013											Burkina Faso	Dérégoué							10.i.-25.ii.1983	H. Collector 1, M. Collector 2	7		Savanne unbelastet
-ZFMK Ps00014											Cameroon	Adamaoua	6.49'N	6.81667	12.52'E	12.86667		1200	ii.1980	W. Collector, P. Collector	1		Bodenfalle Galeriewald
-ZFMK Ps00023											Kenya	Langata	1°20'S	-1.33333	36°46'E	36.76667		1650	i.-ii.1999	T. Collector	1		ICIPE Property
-ZFMK Ps00024											Ivory Coast	Badenou/Mbingué							7.xi.-18.xii.1982	Collector 1, Collector 2, Collector3	2		HO2
-ZFMK Ps00037											Germany	N Aegidienberg, at Quirrenbach	50°41'N	50.68333	7°18'E	7.3			23.vi.2004	Arthropod Course	1		
-ZFMK Ps00038											Germany	Bonn Bad Godesberg Friesdorf, Annaberger Str.							vi.		1		F3
-ZFMK Ps00039											Germany	Bonn Bad Godesberg Friesdorf, Annaberger Str.							vi.		1		F1
-ZFMK Ps00040											Germany	ZFMK							viii.1983	Collector 6	3		Drosophilazucht
-ZFMK Ps00041											Germany	ZFMK							5.viii.1987	S. Collector	1		Garten
-ZFMK Ps00063											Gabon	Mont de Cristel							xi.2006	A. Alphabet	2		
-ZFMK Ps00064											Germany	"""Wolkenburg"""							4.vii.1967	Collector	1		
-ZFMK Ps00065									Leptopeza flavipes		Germany	Bonn, Rheinaue							3.vi.2005		1		
-ZFMK Ps00072											Germany	Bonn, 8 km SW Bad Godesberg	50°39'N	50.65	7°08'E	7.13333			7.ix.2002	Name	3		
+Catalog Nr.	Type status	Family	Genus Name	Species Name	Author	Date descr.	Determined by	Date det.	Host	Host Voucher	Country	Locality	Lat	Lat_dec	Long	Long_dec	Ecology	Altitude	Coll. Date	Collector	Specimens	Gender	Notes	last modified
+ZFMK Ps00001											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.32	6.36'W	-6.36			14.ii.-13.iii.1983	C.Collector	1		Lichtfang 5	19.iii.2015
+ZFMK Ps00002											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.32	6.36'W	-6.36			14.ii.-13.iii.1983	C.Collector	2		Block 2	19.iii.2015
+ZFMK Ps00003											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.32	6.36'W	-6.36			14.ii.-13.iii.1983	C.Collector	13		BF Sav. Kont.; 19	19.iii.2015
+ZFMK Ps00004											Ivory Coast	Badenou S Mbingué	9.50'N	9.50	5.50'W	-5.50			xi.-xii.1983	C.Collector	12		GW oben	19.iii.2015
+ZFMK Ps00005											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.32	6.36'W	-6.36			14.ii.-13.iii.1983	C.Collector	1			19.iii.2015
+ZFMK Ps00006											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.32	6.36'W	-6.36			8.iii.1983	C.Collector	7		T1 GWS	19.iii.2015
+ZFMK Ps00007											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.32	6.36'W	-6.36			14.ii.-13.iii.1983	C.Collector 1, B. Collector 2	3		Block 2	19.iii.2015
+ZFMK Ps00008											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.32	6.36'W	-6.36			8.iii.1983	C.Collector 1, B. Collector 2	1		T1 GWS	19.iii.2015
+ZFMK Ps00009											Ivory Coast	Riv. Bagoé/Guingéréni							3.-17.iii.1983	C.Collector 1, B. Collector 2	8		BF3, Sav D+P	19.iii.2015
+ZFMK Ps00010											Ivory Coast	Riv. Bagoé/Guingéréni	9.32'N	9.32	6.36'W	-6.36			21.ii.1983	C.Collector 1, B. Collector 2	1			19.iii.2015
+ZFMK Ps00011											Ivory Coast	Bandama							23.iii.-7.iv.1984	C.Collector 1, B. Collector 2	4		BF7	19.iii.2015
+ZFMK Ps00012											Ivory Coast	Riv. Bagoé/Guingéréni							1.-16.iii	C.Collector 1, B. Collector 2	16		BF2 Sav D	19.iii.2015
+ZFMK Ps00013											Burkina Faso	Dérégoué							10.i.-25.ii.1983	C.Collector 1, B. Collector 2	7		Savanne unbelastet	19.iii.2015
+ZFMK Ps00014											Cameroon	Adamaoua	6.49'N	6.49	12.52'E	12.52		1200	ii.1980	C.Collector 1, B. Collector 2	1		Bodenfalle Galeriewald	19.iii.2015
+ZFMK Ps00015											Burkina Faso	Dérégoué	10.79'N	10.79	4.08'W	4.08			ii.-iv.1985	D.Collector 4, Collector6	3		Savanne am Koba	19.iii.2015
+ZFMK Ps00016											Ivory Coast	Badenou S Mbingué	9.50'N	9.50	5.50'W	-5.50			xi.-xii.1983	D.Collector 4, Collector6	10			19.iii.2015
+ZFMK Ps00017											Cameroon	Adamaoua, ca. 20 km S von Minim	6.49'N	6.49	12.52'E	12.52		1200	xi.-xii.1979	D.Collector 4, Collector6	5		Bodenfalle Galeriewald	19.iii.2015
+ZFMK Ps00018											Cameroon	Adamaoua, ca. 20 km S von Minim	6.49'N	6.49	12.52'E	12.52		1200	xi.-xii.1979	D.Collector 4, Collector6	2			19.iii.2015
+ZFMK Ps00019											Ivory Coast	Badenou S Mbingué	9.50'N	9.50	5.50'W	-5.50			xi.-xii.1983	D.Collector 4, Collector6	25		Hang quer	19.iii.2015
+ZFMK Ps00020											Cameroon	Adamaoua, ca. 20 km S von Minim	6.49'N	6.49	12.52'E	12.52		1200		D.Collector 4, Collector6	2			19.iii.2015
+ZFMK Ps00021											Cameroon	Adamaoua, ca. 20 km S von Minim	6.49'N	6.49	12.52'E	12.52		1200		D.Collector 4, Collector6	2			19.iii.2015
+ZFMK Ps00022											Cameroon	Adamaoua, ca. 20 km S von Minim	6.49'N	6.49	12.52'E	12.52		1200		D.Collector 4, Collector6	4			19.iii.2015
+ZFMK Ps00023											Kenya	Langata	1°20'S	-1.33333	36°46'E	36.76667		1650	i.-ii.1999	D.Collector 4, Collector6	1		ICIPE Property	19.iii.2015
+ZFMK Ps00024											Ivory Coast	Badenou/Mbingué							7.xi.-18.xii.1982	D.Collector 4, Collector6	2		HO2	19.iii.2015
+ZFMK Ps00025											Ivory Coast	Badenou S Mbingué	9.50'N	9.50	5.50'W	-5.50			xi.-xii.1983	D.Collector 4, Collector6	5			19.iii.2015
+ZFMK Ps00026											Uganda	District Masindi, Budongo Forest n Sonso	1°45'N	1.75	31°35'E	31.58333			11.-20.vii.1995	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00027											Uganda	District Masindi, Budongo Forest n Sonso	1°45'N	1.75	31°35'E	31.58333			21.-31.vii.1995	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00028											Uganda	District Masindi, Budongo Forest n Sonso	1°45'N	1.75	31°35'E	31.58333			1.-10.vii.1995	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00029											Uganda	District Masindi, Budongo Forest n Sonso	1°45'N	1.75	31°35'E	31.58333			21.-31.vii.1995	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00030											Uganda	District Masindi, Budongo Forest n Sonso	1°45'N	1.75	31°35'E	31.58333			21.-31.vii.1995	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00031											Uganda	District Masindi, Budongo Forest n Sonso	1°45'N	1.75	31°35'E	31.58333			11.-20.vii.1995	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00032											Uganda	District Masindi, Budongo Forest n Sonso	1°45'N	1.75	31°35'E	31.58333			11.-20.vii.1995	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00033											Uganda	Semliki Forest	0°48'N	0.8	30°8'E	30.13333			5.-12.ii.1997	D.Collector 4, Collector6	2			19.iii.2015
+ZFMK Ps00034											Uganda	District Masindi, Budongo Forest n Sonso	1°45'N	1.75	31°35'E	31.58333			21.-31.vii.1995	D.Collector 4, Collector6	3			19.iii.2015
+ZFMK Ps00035											Uganda	Semliki Forest	0°48'N	0.8	30°8'E	30.13333			5.-12.ii.1997	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00036											Austria	Gaisberg bei Salzburg							24.viii	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00037											Germany	N Aegidienberg, at Quirrenbach	50°41'N	50.68333	7°18'E	7.3			23.vi.2004	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00038											Germany	Bonn Bad Godesberg Friesdorf, Annaberger Str.							vi.	D.Collector 4, Collector6	1		F3	19.iii.2015
+ZFMK Ps00039											Germany	Bonn Bad Godesberg Friesdorf, Annaberger Str.							vi.	D.Collector 4, Collector6	1		F1	19.iii.2015
+ZFMK Ps00040											Germany	ZFMK							viii.1983	D.Collector 4, Collector6	3		Drosophilazucht	19.iii.2015
+ZFMK Ps00041											Germany	ZFMK							5.viii.1987	D.Collector 4, Collector6	1		Garten	19.iii.2015
+ZFMK Ps00042											Austria	NÖ Schneeberg							3.ix.1987	D.Collector 4, Collector6	1		in leerem Schneckenhaus	19.iii.2015
+ZFMK Ps00043											Germany	Riet, Vaihingen an der Enz							vi.1970	D.Collector 4, Collector6	3		Aus Nest von Delichon urbica	19.iii.2015
+ZFMK Ps00044											Italy	Sassari							5.iii.1950	D.Collector 4, Collector6	1		Ziogiachino	19.iii.2015
+ZFMK Ps00045											Germany	Bonn Bad Godesberg Friesdorf, Annaberger Str.							24.vii.-4.ix.1989	D.Collector 4, Collector6	2		Barberfalle F2	19.iii.2015
+ZFMK Ps00046											Italy	Isola Rossa								D.Collector 4, Collector6	1		unter Steinen	19.iii.2015
+ZFMK Ps00047											Germany	Königswinter Oberpleis, Dollendorfer Straße 35							9.vii.1981	D.Collector 4, Collector6	5		Außenseite Haustür	19.iii.2015
+ZFMK Ps00048											Italy	Sassari							15.vi.1959	D.Collector 4, Collector6	1		Monte Tudarighe	19.iii.2015
+ZFMK Ps00049											Germany	Bonn, Kottenforst	50.667°N	50.667	7.133°E	7.133			4.vi.2006	D.Collector 4, Collector6	3			19.iii.2015
+ZFMK Ps00050											Germany	Königswinter							11.viii.2009	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00051											Germany	N Aegidienberg, at Quirrenbach	50°41'N	50.68333	7°18'E	7.3			7.vii.2003	D.Collector 4, Collector6	7		Duboscq	19.iii.2015
+ZFMK Ps00052											Germany	Wahner Heide, near Troisdorf-Spich	50°50.3'N	50.83833	7°08.6'E	7.14333			16.v.2005	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00053											Austria	Upper Austria, Lichtenberg	48°23'N	48.38333	14°15'E	14.25			19.viii.2004	D.Collector 4, Collector6	1		forest	19.iii.2015
+ZFMK Ps00054											Austria	Upper Austria, Walding	48°21'N	48.35	14°12'E	14.2			3.viii.2003	D.Collector 4, Collector6	3			19.iii.2015
+ZFMK Ps00055											Austria	Upper Austria, Pessenbachtal	48°21'N	48.35	14°04'E	14.06667			17.viii.2004	D.Collector 4, Collector6	3		leaf litter	19.iii.2015
+ZFMK Ps00056											Germany	Bavaria, Allgäu, Ochsentobel							ix.1973-iii.1974	D.Collector 4, Collector6	3			19.iii.2015
+ZFMK Ps00057											Germany	Bonn, forest W Heiderhof	50°39.5'N	50.65833	7°09'E	7.15			30.iii.2003	D.Collector 4, Collector6	2			19.iii.2015
+ZFMK Ps00058											Germany	Wachtberg-Berkum	50°37'29''N	50.62472	07°08'36''E	7.14333			30.vi.2013	D.Collector 4, Collector6	2			19.iii.2015
+ZFMK Ps00059											Germany	Bavaria, Allgäu, Kemptener Wald	47°50'N	47.83333	10°20'E	10.33333			1974	D.Collector 4, Collector6	1		pitfall	19.iii.2015
+ZFMK Ps00060											Germany	Bonn, Oberkassel	50°43'N	50.71667	7°11'E	7.18333		110	2.vi.2005	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00061											Germany	Bonn, forest W Heiderhof	50°39.5'N	50.65833	7°09'E	7.15			9.iii.2003	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00062											Austria	Between Frauenstein and Ramsau	47°50.8'N	47.84667	14°14.4'E	14.24		480	16.vii.2005	D.Collector 4, Collector6	2			19.iii.2015
+ZFMK Ps00063											Gabon	Mont de Cristel							xi.2006	D.Collector 4, Collector6	2			19.iii.2015
+ZFMK Ps00064											Germany	"""Wolkenburg"""							4.vii.1967	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00065									Leptopeza flavipes		Germany	Bonn, Rheinaue							3.vi.2005	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00066											Spain	Gran Canaria	27°55'31''N	27.92528	15°40'55''W	-15.68194				D.Collector 4, Collector6	10			19.iii.2015
+ZFMK Ps00067											Germany	Bonn	50°42'N	50.7	7°15'E	7.25			29.vii.2002	D.Collector 4, Collector6	5			19.iii.2015
+ZFMK Ps00068											Germany	Bonn, 8 km SW Bad Godesberg	50°39'N	50.65	7°08'E	7.13333			12.viii.2002	D.Collector 4, Collector6	2			19.iii.2015
+ZFMK Ps00069											Germany	Bonn, Friesdorf, Annaberg	50°41'N	50.68333	7°07'E	7.11667			3.x.2002	D.Collector 4, Collector6	4			19.iii.2015
+ZFMK Ps00070											Germany	Bonn, Friesdorf, Annaberg	50°41'N	50.68333	7°07'E	7.11667			30.viii.2002	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00071											The Netherlands	Zeeland, Groot Valkenisse	51°30'N	51.5	3°30'E	3.5			20.-23.viii.2002	D.Collector 4, Collector6	4		coastal vegetation	19.iii.2015
+ZFMK Ps00072											Germany	Bonn, 8 km SW Bad Godesberg	50°39'N	50.65	7°08'E	7.13333			7.ix.2002	D.Collector 4, Collector6	3			19.iii.2015
+ZFMK Ps00073											The Netherlands	Zeeland, Groot Valkenisse	51°30'N	51.5	3°30'E	3.5			20.-23.viii.2002	D.Collector 4, Collector6	1		forest	19.iii.2015
+ZFMK Ps00074											Germany	Bonn, forest W Heiderhof	50°39.5'N	50.65833	7°09'E	7.15			29.ix.2002	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00075											Germany	Fernsehturm 1, Plateau							29.vi.1986	D.Collector 4, Collector6	1		im Kraut, trocken, Ruderal + Trockenrasenpflanzen	19.iii.2015
+ZFMK Ps00076											Germany	Marienhäuschen Filsener Lei							2.viii.1986	D.Collector 4, Collector6	1		unter Brombeeren	19.iii.2015
+ZFMK Ps00077											Bolivia	El Beni, Rurrenabaque, Parque National Madidi	14°28'S	-14.46667	67°34'W	-67.56667			iv.2003	D.Collector 4, Collector6	2			19.iii.2015
+ZFMK Ps00078											French Guyana	Bicade	3°24'N	3.4	53°27'W	-53.45			1953-56	D.Collector 4, Collector6	3			19.iii.2015
+ZFMK Ps00079											Belize	Toledo, Punta Gorda	16°10'N	16.16667	88°45'W	-88.75			14.xi.2003	D.Collector 4, Collector6	1		Nim Li Punit Mayan site	19.iii.2015
+ZFMK Ps00080											French Guyana	Maripa	3°47'60''N	3.8	51°52'60''W	-51.88333			1953-56	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00081											Costa Rica	Puntarenas Prov., Esquinas Rain Forest near la Gamba	8°41'N	8.68333	83°12'W	-83.2		110-160	17.viii.2006	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00082											Iran	Weisar SSÖ Novshar						1400	9.-14.vi.1977	D.Collector 4, Collector6	1			19.iii.2015
+ZFMK Ps00083																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00084																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00085																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00086																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00087																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00088																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00089																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00090																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00091																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00092																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00093																				D.Collector 4, Collector6				19.iii.2015
+ZFMK Ps00094																				D.Collector 4, Collector6				19.iii.2015
