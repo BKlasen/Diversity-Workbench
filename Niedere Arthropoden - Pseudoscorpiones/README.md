@@ -56,9 +56,11 @@ _Country_
 _Locality_  
 --> Event/LocalityDescription (als decisive markiert)  
 
-_Lat und Long_  
---> werden nicht importiert (alte Koordinaten, die in verschiedenen Formaten vorliegen, zum Import wurden die Spalten "Lat_dec." bzw. "Long_dec" eingefügt und über ein Script in Google refine in das WGS84-Format transformiert, bei Anwendung des Skriptes darauf achten, dass der Spaltenname exakt geschrieben ist, Punkte!!!)  
+_Lat_  
+--> Coordinates WGS84/LocationNotes (addiert, nicht decisive, mit Pre.: "Original Latitude: ")  
 
+_Long_  
+--> Coordinates WGS84/LocationNotes (nicht decisive, mit Pre.: "Original Longitude: ", mit Post.: " ; ")  
 
 _Lat_dec_  
 --> Coordinates WGS84/Lat.(NS) (als decisive markiert)  
@@ -98,6 +100,10 @@ _Notes_
 --> Specimen/Notes/OriginalNotes (nicht decisive)  
 
 
+_last modified_  
+--> Specimen/Additional Notes (nicht decisive, mit Pre.: "last modified: ") 
+
+
 _weitere Einstellungen:_  
 
 -  Attachment: als "Import as new data" markiert  
@@ -108,5 +114,6 @@ _weitere Einstellungen:_
 -  Organism 1/Taxonomic Group: "For all: arthropod" (als decisive markiert)  
 -  Organism 1/Hierarchy, name/LastIdentificationCache: "For all: 1" (nicht decisive)
 -  Organism 1/Identification 1.1/IdentificationSequence: "For all: 1" (nicht decisive)  
+-  Organism 2/Relation/RelationUnitID: "Organism 2" (nicht decisive)  
 -  Organism 2/Hierarchy, name/LastIdentificationCache: "For all: 1" (nicht decisive)  
 -  Organism 2/Identification 2.1/IdentificationSequence: "For all: 1" (nicht decisive)  
