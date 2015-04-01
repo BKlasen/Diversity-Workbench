@@ -1,0 +1,99 @@
+Catalog Nr.	Type status	Order	Family	Genus Name	Species Name	Author	Date descr.	Determined by	Date det.	Country	Locality	Lat	Long	Lat_dec	Long_dec	coord_uncertainty_flag	Ecology	Altitude	Depth	Date	Collector	Collectors	Specimens	Notes	Host	last modified
+ZFMK Cr00001		Amphipoda	Gammaridae	Dexamine	sp.					Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector1	Collector1		Schwämme + (?)	Schwämme + (?)	31.iii.2015
+ZFMK Cr00002		Amphipoda	Gammaridae	Amphilochus	neapolitanus	Della Valle	1893			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector2	Collector2		Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00003		Amphipoda	Gammaridae	Hyale	schmidti	Heller	1866			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector3	Collector3		Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00004		Amphipoda	Corophiidae	Ampithoe	ramondi	Audouin	1826			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector4	Collector4		Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00005		Amphipoda	Corophiidae	Jassa	marmorata	Holmes	1905			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector5	Collector5		Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00006		Amphipoda	Gammaridae	Stenothoe	monoculoides	Montagu	1815			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector6	Collector6		auf Padina pavonica	Padina pavonica	31.iii.2015
+ZFMK Cr00007		Amphipoda	Gammaridae	Apherusa	bispinosa	Bate	1857			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector7	Collector7		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00008		Amphipoda	Aoridae	gen.	sp.					Greece	Kreta O, (?)	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector8	Collector8				31.iii.2015
+ZFMK Cr00009		Amphipoda	Corophiidae	Lembos	websteri	Bate	1856			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.				1976	Collector9	Collector9		auf Padina pavonica	Padina pavonica	31.iii.2015
+ZFMK Cr00010		Amphipoda	Gammaridae (?)							Greece	Kreta	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector10	Collector10		in Mischfauna		31.iii.2015
+ZFMK Cr00011		Amphipoda	Corophiidae	Ampithoe	ramondi	Audouin	1826			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector11	Collector11		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00012		Amphipoda	Corophiidae	Jassa	marmorata	Holmes	1905			Greece	Kreta	~ 35.09	~ 24.88	35,09	24,88	ca.				1976	Collector12	Collector12				31.iii.2015
+ZFMK Cr00013		Amphipoda	Gammaridae	Pereionotus	testudo	Montagu	1808			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector13	Collector13		auf Padina pavonica	Padina pavonica	31.iii.2015
+ZFMK Cr00014		Amphipoda	Gammaridae	Apherusa	bispinosa	Bate	1857			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector14	Collector14		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00015		Amphipoda	Corophiidae	Gammaropsis	crenulata	Krapp-Schickel & Myers	1979			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector15	Collector15		auf Padina pavonica	Padina pavonica	31.iii.2015
+ZFMK Cr00016		Amphipoda	Corophiidae	Jassa	marmorata	Holmes	1905			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector16	Collector16		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00017		Amphipoda	Gammaridae	Amphilochus	neapolitanus	Della Valle	1893			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector17	Collector17		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00018		Amphipoda	Corophiidae	Podocerus	variegatus	Leach	1814			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector18	Collector18		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00019		Amphipoda	Gammaridae	Lysianassa	costae	H. Milne Edwards	1830			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector19	Collector19		auf Padina pavonica	Padina pavonica	31.iii.2015
+ZFMK Cr00020		Amphipoda	Gammaridae	Hyale	schmidti	Heller	1866			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector20	Collector20		auf Padina pavonica	Padina pavonica	31.iii.2015
+ZFMK Cr00021		Amphipoda	Corophiidae	Podocerus	variegatus	Leach	1814			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector21	Collector21		auf Padina pavonica	Padina pavonica	31.iii.2015
+ZFMK Cr00022		Amphipoda	Gammaridae	Ampelisca	rubella	A. Costa	1864			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector22	Collector22		auf Padina pavonica	Padina pavonica	31.iii.2015
+ZFMK Cr00023		Amphipoda	Gammaridae	Dexamine	spiniventris	Costa	1853			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector23	Collector23		auf Padina pavonica	Padina pavonica	31.iii.2015
+ZFMK Cr00024		Amphipoda	Corophiidae	Sunamphitoe	pelagica	H. Milne Edwards	1830			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector24	Collector24		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00025		Amphipoda	Gammaridae	Stenothoe	monoculoides	Montagu	1815			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector25	Collector25		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00026		Amphipoda	Corophiidae	Ischyrocerus	inexpectatus	Ruffo	1959			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector26	Collector26		Corallina + Schwämme(?)	Corallina + Schwämme(?)	31.iii.2015
+ZFMK Cr00027		Amphipoda	Corophiidae	Ampithoe	riedli(?)					Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.	Küste				Collector27	Collector27		Corallina + Schwämme(?)	Corallina + Schwämme(?)	31.iii.2015
+ZFMK Cr00028		Amphipoda	Corophiidae	Gammaropsis	crenulata	Krapp-Schickel & Myers	1980			Greece	Kreta O	~ 35.09	~ 24.88	35,09	24,88	ca.				1976	Collector28	Collector28		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00029		Amphipoda	Gammaridae	Stenothoe	monoculoides	Montagu	1815			Greece	Kreta SO	~ 35.09	~ 24.88	35,09	24,88	ca.					Collector29	Collector29		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00030		Amphipoda	Gammaridae	Maera	grossimana	Montagu	1808			Italy	Ischia, St. Anna, G.v. Napoli						Geröll, Kies				Collector30	Collector30				31.iii.2015
+ZFMK Cr00031		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, G. v. Napoli										Collector31	Collector31		Amphiottussand (?)		31.iii.2015
+ZFMK Cr00032		Amphipoda	Gammaridae	Maera	inaequipes	Costa	1857			Italy	Ischia, Pasidonia, ganginni, Menina										Collector32	Collector32				31.iii.2015
+ZFMK Cr00033		Amphipoda	Gammaridae	Gammarella	fucicola	Leach	1814			Italy	Ischia-ponte, G. v. Napoli						Algen				Collector33	Collector33				31.iii.2015
+ZFMK Cr00034		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, G. v. Napoli										Collector34	Collector34		Amphiottussand (?)		31.iii.2015
+ZFMK Cr00035		Amphipoda	Gammaridae	Elasmopus	pocillimanus	Bate	1862			Italy	Ischia-ponte, G. v. Napoli										Collector35	Collector35		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00036		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, Maronti, G.v. Napoli						Kies + Grobsand				Collector36	Collector36				31.iii.2015
+ZFMK Cr00037		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, G. v. Napoli										Collector37	Collector37		Amphiottussand (?)		31.iii.2015
+ZFMK Cr00038		Amphipoda	Gammaridae	Elasmopus	pocillimanus	Bate	1862			Italy	Ischia, St. Anna, G.v. Napoli						Geröll, Kies				Collector38	Collector38				31.iii.2015
+ZFMK Cr00039		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, Maronti, G.v. Napoli						Kies + Grobsand				Collector39	Collector39				31.iii.2015
+ZFMK Cr00040		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, Maronti, G.v. Napoli						Kies + Grobsand				Collector40	Collector40		Kasamay(?)		31.iii.2015
+ZFMK Cr00041		Amphipoda	Gammaridae	Maera	inaequipes	Costa	1857			Italy	Ischia										Collector41	Collector41		Posidonia gerufissi, Messina	Posidonia gerufissi, Messina	31.iii.2015
+ZFMK Cr00042		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, Maronti, G.v. Napoli						Kies + Grobsand				Collector42	Collector42				31.iii.2015
+ZFMK Cr00043		Amphipoda	Gammaridae	Maera	inaequipes	Costa	1857			Italy	Ischia										Collector43	Collector43		Posidonia gerufissi, Messina	Posidonia gerufissi, Messina	31.iii.2015
+ZFMK Cr00044		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, Maronti, G.v. Napoli										Collector44	Collector44		Amphiottussand (?)		31.iii.2015
+ZFMK Cr00045		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, Maronti, G.v. Napoli										Collector45	Collector45		Amphiottussand (?)		31.iii.2015
+ZFMK Cr00046		Amphipoda	Gammaridae	Gammarus	crinicornis	Stock	1966			Spain	Hotel Foriada Roquetas d. mare						Seegras angespült				Collector46	Collector46				31.iii.2015
+ZFMK Cr00047		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, Maronti, G.v. Napoli						Kies + Grobsand				Collector47	Collector47				31.iii.2015
+ZFMK Cr00048		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, Maronti, G.v. Napoli						Kies + Grobsand				Collector48	Collector48				31.iii.2015
+ZFMK Cr00049		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia, Maronti, G.v. Napoli						Kies + Grobsand				Collector49	Collector49				31.iii.2015
+ZFMK Cr00050		Amphipoda	Gammaridae	Melita	bulla	Karaman	1978			Italy	Ischia										Collector50	Collector50		Amphiottussand (?)		31.iii.2015
+ZFMK Cr00051		Amphipoda	Gammaridae	Gammarella	fucicola	Leach	1814			Italy	Ischia-ponte, G. v. Napoli						Algen				Collector51	Collector51				31.iii.2015
+ZFMK Cr00052		Amphipoda	Gammaridae	Gammarella	fucicola	Leach	1814			Italy	Ischia-ponte, G. v. Napoli						Algen				Collector52	Collector52				31.iii.2015
+ZFMK Cr00053		Amphipoda	Gammaridae	Maera	inaequipes	Costa	1857			Italy	Sicilia, Messina						Oberflächliche Algen				Collector53	Collector53				31.iii.2015
+ZFMK Cr00054		Amphipoda	Gammaridae	Gammarus	crinicornis	Stock	1966			Spain	Hotel Foriada Roquetas d. mare						Seegras angespült			14.viii.1986	Collector54	Collector54				31.iii.2015
+ZFMK Cr00055		Amphipoda	Gammaridae	Gammarus	crinicornis	Stock	1966			Spain	Hotel Foriada Roquetas d. mare						Seegras angespült			14.viii.1986	Collector55	Collector55				31.iii.2015
+ZFMK Cr00056		Amphipoda	Gammaridae	Elasmopus	pocillimanus	Bate	1862			Italy	Sicilia, latania						Küstenalgen				Collector56	Collector56				31.iii.2015
+ZFMK Cr00057		Amphipoda	Gammaridae	Elasmopus	pocillimanus	Bate	1862			Italy	Sardinien						Algen				Collector57	Collector57				31.iii.2015
+ZFMK Cr00058		Amphipoda	Gammaridae	Elasmopus	pocillimanus	Bate	1862			Italy	Sardinien						Algen				Collector58	Collector58				31.iii.2015
+ZFMK Cr00059		Amphipoda	Gammaridae	Elasmopus	pocillimanus	Bate	1862			Italy	Sardinien						Algen				Collector59	Collector59				31.iii.2015
+ZFMK Cr00060		Amphipoda	Corophiidae	Caprella	hirsuta	Mayer	1890			Italy	Sadinien NW							0	0		Collector60	Collector60		C. H. f. longimana, gefunden auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00061		Amphipoda	Corophiidae	Caprella	liparotensis	Haller	1879			Spain	Roquetas Puerto G. v. Almeira								1,5		Collector61	Collector61		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00062		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Croatia	Rovinj, langassum iw.						Stadt, Felsen				Collector62	Collector62				31.iii.2015
+ZFMK Cr00063		Amphipoda	Corophiidae	Caprella	liparotensis	Haller	1879			Italy	Ischia-ponte, G. v. Napoli								0,5		Collector63	Collector63		auf Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00064		Amphipoda	Corophiidae	Caprella	liparotensis	Haller	1879			Italy	Ischia-ponte, G. v. Napoli								0,5		Collector64	Collector64				31.iii.2015
+ZFMK Cr00065		Amphipoda	Corophiidae	Caprella	liparotensis	Haller	1879			Italy	Ischia-ponte, G. v. Napoli								0,5		Collector65	Collector65				31.iii.2015
+ZFMK Cr00066		Amphipoda	Corophiidae	Caprella	liparotensis	Haller	1879			Italy	Ischia-ponte, G. v. Napoli								0,5		Collector66	Collector66				31.iii.2015
+ZFMK Cr00067		Amphipoda	Corophiidae	Caprella	liparotensis	Haller	1879			Italy	Ischia-ponte, G. v. Napoli								0,5		Collector67	Collector67				31.iii.2015
+ZFMK Cr00068		Amphipoda	Corophiidae	Caprella	liparotensis	Haller	1879			Croatia	Rovinj, N Adria						Stadt, Felsen		1-2		Collector68	Collector68				31.iii.2015
+ZFMK Cr00069		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector69	Collector69		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00070		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector70	Collector70		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00071		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector71	Collector71		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00072		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector72	Collector72		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00073		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector73	Collector73		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00074		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector74	Collector74		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00075		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector75	Collector75		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00076		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector76	Collector76		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00077		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector77	Collector77		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00078		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector78	Collector78		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00079		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector79	Collector79		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00080		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector80	Collector80		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00081		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector81	Collector81		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00082		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector82	Collector82		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00083		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector83	Collector83		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00084		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector84	Collector84		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00085		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Italy	Ischia-ponte, G. v. Napoli										Collector85	Collector85		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00086		Amphipoda	Corophiidae	Caprella	acanthifera	Leach	1814			Croatia	Rovinj, N Adria						Stadt				Collector86	Collector86		on Cystoseira	Cystoseira	31.iii.2015
+ZFMK Cr00087		Amphipoda	Corophiidae	Pseudoprotella	phasma	Montagu	1804			Italy	Ischia, G. v. Napoli										Collector87	Collector87		on Halimeda (?)	Halimeda(?)	31.iii.2015
+ZFMK Cr00088		Amphipoda	Corophiidae	Caprella	grandimana cf.	Mayer	1882			Italy	Ischia-ponte, G. v. Napoli										Collector88	Collector88		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00089		Amphipoda	Corophiidae	Caprella	grandimana cf.	Mayer	1882			Italy	Ischia-ponte, G. v. Napoli										Collector89	Collector89		on Halopteris filicina	Halopteris filicina	31.iii.2015
+ZFMK Cr00090		Decapoda	Portunidae	Portunus	aripatus					Italy	Neapel									10.iv.1885	Collector90					31.iii.2015
+ZFMK Cr00091		Decapoda	Portunidae	Portunus	puber	Linnaeus				Italy (?)	Mentone (Weltweit mehrmals, aber nicht in Italien)									1878	Collector91					31.iii.2015
+ZFMK Cr00092		Decapoda	Xanthidae	Xantho	poressa	Olivi	1792			Italy	Neapel									2.iv.1885	Collector92					31.iii.2015
+ZFMK Cr00093		Decapoda	Grapsidae	Eriocheir	sinensis	H. Milne Edwards	1853				Achterwehr Schiffahrtskanal (Ringkanal) Eiderstrecke, beginnend am Nordostsee-Kanal						Süßwasser			ix.1986	Collector93	Collector 2				31.iii.2015
+ZFMK Cr00094										Brasil	Petrobras(?), nahe Rio Yaguaripe									29.vi.1974	Collector94	Collector 3, K.H.				31.iii.2015
+ZFMK Cr00095										Nigeria	Hgotel Mts., nahe Grenze zu Kamerun									25.iii.88	Collector95	Collector4, G.				31.iii.2015
+ZFMK Cr00096																					Collector96					31.iii.2015
+ZFMK Cr00097		Decapoda	Potamidae	Potamon	potamios	Bott				Turkey	NO Hopa, 400m (Prov. Artvin)						Straßenrand mit Sambucusnigra, Pteridium aquilinum, nahe Bach unter Stein			18.viii.1988	Collector97	Collector5, M.		1 eitragendes Weibchen, 49		31.iii.2015
+ZFMK Cr00098										Peru	ca. 200m vom Ufer des Chipiriri entfernt						unter einem morschen stück Holz am Boden			x.1966	Collector98	Collector6, K.-H.				31.iii.2015
