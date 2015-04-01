@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-**In der excel-Tabelle vorhandene Spalten und ihre Zuordnung im Import Wizard (DWB Version 3.0.7.7):**
-=======
-** In der excel-Tabelle vorhandene Spalten und ihre Zuordnung im Import Wizard (DWB Version 3.0.7.7):**
->>>>>>> origin/master
+﻿**In der excel-Tabelle vorhandene Spalten und ihre Zuordnung im Import Wizard (DWB Version 3.0.7.7):**
+
 
 _Catalog Nr._  
 --> Specimen/Accession/AccessionNumber (als decisive markiert)  
