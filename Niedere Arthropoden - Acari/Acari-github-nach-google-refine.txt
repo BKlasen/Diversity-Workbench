@@ -1,0 +1,99 @@
+Catalog Nr.	Type status	Family	Genus Name	Species Name	Subspecies Name	Author	Date descr.	Determined by	Date det.	Host	Host Voucher	Country	Locality	Lat	Lat_dec	Long	Long_dec	Ecology	Altitude	Coll. Date	Collector	Collectors	Specimens	Gender	Notes	Conservation	last modified
+ZFMK Ac00001			Acaropsis	sollers		Rohdendorf	1940	Determ1	1982	Microtus arvalis		France	Dijon							25.viii.1978	Collector 1			female		slides	16.iii.2015
+ZFMK Ac00002			Aeromylichus	hylopetes		Bain	1970	Determ2	1982	Petaurista elegans		Indonesia	Japara, M. Java							31.viii.1938	Collector 2			female	Leiden 1971	slides	16.iii.2015
+ZFMK Ac00003			Afrolistrophoroide	dubininae		Fain	1972	Determ3	1981	Dendromys	MNHN Paris	Central African Republic	Baiki, CAR							1966	Collector 3			male		slides	16.iii.2015
+ZFMK Ac00004			Afrolistrophoroide	dubininae		Fain	1972	Determ4	1976	Deomys ferrugineus	MNHN Paris	Central African Republic	La Maboké							1966	Collector 4			female		slides	16.iii.2015
+ZFMK Ac00005			Afrolistrophorus	apodemi		Fain	1970	Determ5	1980	Apodemus sylvaticus		Netherlands	Nijmegen							26.i.1983	Collector 5			male		slides	16.iii.2015
+ZFMK Ac00006			Afrolistrophorus	apodemi		Fain	1970	Determ6	1980	Apodemus sylvaticus		Netherlands	Nijmegen							26.i.1983	Collector 6			male		slides	16.iii.2015
+ZFMK Ac00007			Afrolistrophorus	apodemi		Fain	1970	Determ7	1980	Apodemus sylvaticus		Netherlands	Nijmegen							26.i.1983	Collector 7			female		slides	16.iii.2015
+ZFMK Ac00008			Afrolistrophorus	apodemi		Fain	1970	Determ8	1974	Apodemus sylvaticus		France	Sartène, Korsica							2.vii.1978	Collector 8			male		slides	16.iii.2015
+ZFMK Ac00009			Afrolistrophorus	apodemi		Fain	1970	Determ9	1980	Apodemus sylvaticus		France	Sartène, Korsica							2.vii.1978	Collector 9			female		slides	16.iii.2015
+ZFMK Ac00010			Afrolistrophorus	apodemi		Fain	1970	Determ10	1974	Apodemus sylvaticus		France	Sartène, Korsica							2.vii.1978	Collector 10			female		slides	16.iii.2015
+ZFMK Ac00011			Afrolistrophorus	apodemi		Fain	1970	Determ11	1980	Apodemus	Smiths. 334 382	Taiwan	Chuei-Feng								Collector 11			male		slides	16.iii.2015
+ZFMK Ac00012			Afrolistrophorus	apodemi		Fain	1970	Determ12	1980	Apodemus	Smiths. 334 382	Taiwan	Chuei-Feng								Collector 12			female		slides	16.iii.2015
+ZFMK Ac00013			Afrolistrophorus	bothae		Hirst	1923	Determ13		Aethomis bocagel	MNHN Paris	Zaire	Pointe noire							x.1962	Collector 13			male		slides	16.iii.2015
+ZFMK Ac00014			Afrolistrophorus	bothae		Hirst	1923	Determ14		Aethomis bocagel	MNHN Paris	Zaire	Pointe noire							x.1962	Collector 14			female		slides	16.iii.2015
+ZFMK Ac00015			Afrolistrophorus	concinnus		Fain	1970	Determ15	1974	Legadda rutilans	Paris 553	Central African Republic	Boukoko							xi.1963	Collector 15			male		slides	16.iii.2015
+ZFMK Ac00016			Afrolistrophorus	concinnus		Fain	1970	Determ16	1973	Mus muscoloides		Liberia	Gengema							20.x.1970	Collector 16			female	Eing. Nr. A69/71	slides	16.iii.2015
+ZFMK Ac00017			Afrolistrophorus	congoicola		Fain	1971	Determ17	1977	Dendromys acraeus	Smiths. 184 682	Kenya	Kaimosi							1909	Collector 17			female		slides	16.iii.2015
+ZFMK Ac00018			Afrolistrophorus	congoicola		Fain	1971	Determ18	1976	Praomys tullbergi	Smiths. 166 114	Kenya	Mt. Kenya							1909	Collector 18			female		slides	16.iii.2015
+ZFMK Ac00019			Afrolistrophorus	congoicola		Fain	1971	Determ19	1976	Praomys tullbergi	Smiths. 166 114	Kenya	Mt. Kenya							1909	Collector 19			female		slides	16.iii.2015
+ZFMK Ac00020			Afrolistrophorus	congoicola		Fain	1971	Determ20	1976	Praomys tullbergi	Smiths. 166 114	Kenya	Mt. Kenya							1909	Collector 20			male		slides	16.iii.2015
+ZFMK Ac00021			Afrolistrophorus	congoicola		Fain	1971	Determ21	1977		Paris 18-847		Mt Elgon							5.i.1933				male		slides	16.iii.2015
+ZFMK Ac00022			Afrolistrophorus	dasymys		Fain	1970	Determ22	1973	Dasymys incomptus		Liberia	Harbel							1.x.1970	Collector 2			male	Eing. Nr. A69/71	slides	16.iii.2015
+ZFMK Ac00023			Afrolistrophorus	dasymys		Fain	1970	Determ23	1973	Dasymys incomptus		Liberia	Mabahn-Kaba							6.i.1971	Collector 2			female	Eing. Nr. A69/71	slides	16.iii.2015
+ZFMK Ac00024			Afrolistrophorus	dipodicola		Traegardh	1904	Determ24	1978	Gerbillus campestris		Morocco	Ou klad Teima (Ouled Teïma)							15.iii.1975	Collector 2			male		slides	16.iii.2015
+ZFMK Ac00025			Afrolistrophorus	dipodicola		Traegardh	1904	Determ25	1978	Gerbillus campestris		Morocco	Ou klad Teima (Ouled Teïma)							15.iii.1975	Collector 2			female		slides	16.iii.2015
+ZFMK Ac00026			Afrolistrophorus	dipodicola		Traegardh	1904	Determ26	1974	Gerbillus andersoni	SMF 28968	Egypt	El Alamain							19.viii.1965	Collector 2			male		slides	16.iii.2015
+ZFMK Ac00027			Afrolistrophorus	dipodicola		Traegardh	1904	Determ27	1974	Gerbillus binomi	SMF 9660	Tunesia	Gabes, Tunis							1898	Collector 2			female		slides	16.iii.2015
+ZFMK Ac00028			Afrolistrophorus	dipodicola	tataerae	Fain	1971	Determ28	1983	Tatera vicinia iconica	Smiths 165 926	Kenia	Banso Nyiro							ix.1909	Collector 2			mixed		slides	16.iii.2015
+ZFMK Ac00029			Afrolistrophorus	dipodicola	tataerae	Fain	1971	Determ29	1983	Tatera vicinia iconica	Smiths 165 926	Kenia	Banso Nyiro							ix.1909	Collector 2			mixed		slides	16.iii.2015
+ZFMK Ac00030			Afrolistrophorus	dipodicola	tataerae	Fain	1971	Determ30	1983	Tatera vicinia iconica	Smiths 165 926	Kenia	Banso Nyiro							ix.1909	Collector 2			mixed		slides	16.iii.2015
+ZFMK Ac00031			Afrolistrophorus	dipodicola	tataerae	Fain	1971	Determ31	1976	Tatera vicinia iconica	Smiths 165 926	Kenia	N. Guaso Nyiro							ix.1909	Collector 2			male		slides	16.iii.2015
+ZFMK Ac00032			Afrolistrophorus	dipodicola	tataerae	Fain	1971	Determ32	1976	Tatera vicinia iconica	Smiths 165 926	Kenia	N. Guaso Nyiro							ix.1909	Collector 2			female		slides	16.iii.2015
+ZFMK Ac00033			Afrolistrophorus	dipodicola	theodori	Radford	1954	Determ33	1974	Meriones shawi	SMF 28960	Tunesia	Mrhila							21.ix.1961	Collector 3			male		slides	16.iii.2015
+ZFMK Ac00034			Afrolistrophorus	dipodicola	theodori	Radford	1954	Determ34	1974	Meriones shawi	SMF 28960	Tunesia	Mrhila							21.ix.1961	Collector 3			male		slides	16.iii.2015
+ZFMK Ac00035			Afrolistrophorus	inca		Fain	1976	Determ35	1982	Lestoros inca	Chicago 75587	Peru	Cuzco							17.x.1977	Collector 3			male		slides	16.iii.2015
+ZFMK Ac00036			Afrolistrophorus	inca		Fain	1976	Determ36	1982	Lestoros inca	Chicago 75587	Peru	Cuzco							17.vii.1953	Collector 3			male		slides	16.iii.2015
+ZFMK Ac00037			Afrolistrophorus	inca		Fain	1976	Determ37	1982	Lestoros inca	Chicago 75587	Peru	Cuzco							17.x.1977	Collector 3			male		slides	16.iii.2015
+ZFMK Ac00038			Afrolistrophorus	inca		Fain	1976	Determ38	1982	Lestoros inca	Chicago 75587	Peru	Cuzco							17.vii.1953	Collector 3			female		slides	16.iii.2015
+ZFMK Ac00039			Afrolistrophorus	inca		Fain	1976	Determ39	1982	Lestoros inca	Chicago 75587	Peru	Cuzco							17.vii.1953	Collector 3			female		slides	16.iii.2015
+ZFMK Ac00040			Afrolistrophorus	inca		Fain	1976	Determ40	1982	Lestoros inca	Chicago 75587	Peru	Cuzco							17.x.1977	Collector 3			female		slides	16.iii.2015
+ZFMK Ac00041			Afrolistrophorus	lophuromys		Radford	1940	Determ41	1980	Lophutomys sikapusi	Weisser 99	Ivory Coast	Soubre							6.iii.1979	Collector 4			male		slides	16.iii.2015
+ZFMK Ac00042			Afrolistrophorus	lophuromys		Radford	1940	Determ42	1980	Lophutomys sikapusi	Weisser 101	Ivory Coast	Soubre							6.iii.1979	Collector 4			male		slides	16.iii.2015
+ZFMK Ac00043			Afrolistrophorus	lophuromys		Radford	1940	Determ43	1980	Lophutomys sikapusi	Weisser 101	Ivory Coast	Soubre							6.iii.1979	Collector 4			mixed		slides	16.iii.2015
+ZFMK Ac00044			Afrolistrophorus	lophuromys		Radford	1940	Determ44	1980	Lophutomys sikapusi	Weisser 101	Ivory Coast	Soubre							6.iii.1979	Collector 4			mixed		slides	16.iii.2015
+ZFMK Ac00045			Afrolistrophorus	lophuromys		Radford	1940	Determ45	1980	Lophutomys sikapusi	Weisser 101	Ivory Coast	Soubre							6.iii.1979	Collector 4			mixed		slides	16.iii.2015
+ZFMK Ac00046			Afrolistrophorus	lophuromys		Radford	1940	Determ46	1980	Lophutomys sikapusi	Weisser 101	Ivory Coast	Soubre							6.iii.1979	Collector 4			mixed		slides	16.iii.2015
+ZFMK Ac00047			Afrolistrophorus	lophuromys		Radford	1940	Determ47	1980	Lophutomys sikapusi	Weisser 101	Ivory Coast	Soubre							6.iii.1979	Collector 4			female		slides	16.iii.2015
+ZFMK Ac00048			Afrolistrophorus	lophuromys		Radford	1940	Determ48	1980	Lophutomys sikapusi	Weisser 101	Ivory Coast	Soubre							6.iii.1979	Collector 4			female		slides	16.iii.2015
+ZFMK Ac00049			Afrolistrophorus	lophuromys		Radford	1940	Determ49	1980	Lophutomys sikapusi	Weisser 101	Ivory Coast	Soubre							6.iii.1979	Collector 4			female		slides	16.iii.2015
+ZFMK Ac00050			Afrolistrophorus	lophuromys		Radford	1940	Determ50	1980	Lophutomys sikapusi	Weisser 99	Ivory Coast	Soubre							6.iii.1979	Collector 4			female		slides	16.iii.2015
+ZFMK Ac00051			Afrolistrophorus	lophuromys		Radford	1940	Determ51	1980	Lophutomys sikapusi	Weisser 101	Ivory Coast	Soubre							6.iii.1979	Collector 4			female		slides	16.iii.2015
+ZFMK Ac00052			Afrolistrophorus	lophuromys		Radford	1940	Determ52	1973	Lophutomys sikapusi	Hamburg T 882	Liberia	Njeble							16.x.1970	Collector 4			male		slides	16.iii.2015
+ZFMK Ac00053			Afrolistrophorus	lophuromys		Radford	1940	Determ53	1973	Lophutomys sikapusi	Hamburg T 882	Liberia	Njeble							16.x.1970	Collector 4			female		slides	16.iii.2015
+ZFMK Ac00054			Afrolistrophorus	lophuromys		Radford	1940	Determ54		Lophutomys sikapusi	Hamburg T 882	Liberia	Njeble							16.x.1970	Collector 4				N	slides	16.iii.2015
+ZFMK Ac00055			Afrolistrophorus	maculatus		Fain	1976	Determ55	1979	Rattus sabanus	IMR 152	Malaysia	Kuala Selangor, Road 22 mls							21.v.1979				male		slides	16.iii.2015
+ZFMK Ac00056			Afrolistrophorus	maculatus		Fain	1976	Determ56	1979	Rattus sabanus	IMR 152	Malaysia	Kuala Selangor, Road 22 mls							21.v.1979				female		slides	16.iii.2015
+ZFMK Ac00057			Afrolistrophorus	maculatus		Fain	1976	Determ57	1979	Rattus sabanus	IMR 152	Malaysia	Kuala Selangor, Road 22 mls							21.v.1979				female		slides	16.iii.2015
+ZFMK Ac00058			Afrolistrophorus	maculatus		Fain	1976	Determ58	1979	Rattus sabanus	IMR 86	Malaysia	Bukit Lanjan, Selangor							7.v.1979				male		slides	16.iii.2015
+ZFMK Ac00059			Afrolistrophorus	maculatus		Fain	1976	Determ59	1981	Rattus argentiventer	IMR 179	Malaysia	Ulu Jendaram, Selangor							1.vi.1979				male		slides	16.iii.2015
+ZFMK Ac00060			Afrolistrophorus	maculatus		Fain	1976	Determ60	1981	Rattus argentiventer	IMR 172	Malaysia	Ulu Jendaram, Selangor							30.v.1979				female		slides	16.iii.2015
+ZFMK Ac00061			Afrolistrophorus	maculatus		Fain	1976	Determ61	1981	Rattus tiomanicus	Med. Ecology 110573	Malaysia	Bukit Lanjan, Selangor							4.v.1979				male		slides	16.iii.2015
+ZFMK Ac00062			Afrolistrophorus	maculatus		Fain	1976	Determ62	1981	Rattus tiomanicus	Med. Ecology 110573	Malaysia	Bukit Lanjan, Selangor							4.v.1979				female		slides	16.iii.2015
+ZFMK Ac00063			Afrolistrophorus	mediolineatus		Fain	1976	Determ63	1979	Rattus bowersii	IMR	Malaysia	Mt Brinchang, Pahang							17.iv.1979				male		slides	16.iii.2015
+ZFMK Ac00064			Afrolistrophorus	mediolineatus		Fain	1976	Determ64	1979	Rattus bowersii	IMR	Malaysia	Mt Brinchang, Pahang							17.iv.1979				female		slides	16.iii.2015
+ZFMK Ac00065			Afrolistrophorus	muricola		Fain	1970	Determ65	1974	Leggada setulosus	Paris 873	Zaire	M. Bila							17.xii.1963				female		slides	16.iii.2015
+ZFMK Ac00066			Afrolistrophorus	muricola		Fain	1970	Determ66		Leggada setulosus	Paris 873	Zaire	M. Bila							17.xii.1963					N	slides	16.iii.2015
+ZFMK Ac00067			Afrolistrophorus	muricola		Fain	1970	Determ67		Leggada setulosus	Paris 873	Zaire	M. Bila							17.xii.1963				male		slides	16.iii.2015
+ZFMK Ac00068			Afrolistrophorus	muricola		Fain	1970	Determ68		Hybomis univittatus	MNHN Paris	Cameroon	Jaunde							1968	Collector 5			female		slides	16.iii.2015
+ZFMK Ac00069			Afrolistrophorus	myospalacis		Dubinina	1973	Determ69		Spalax	MNHN Paris	Iran												female		slides	16.iii.2015
+ZFMK Ac00070			Afrolistrophorus	myospalacis		Dubinina	1973	Determ70		Spalax	MNHN Paris	Iran												female		slides	16.iii.2015
+ZFMK Ac00071			Afrolistrophorus	myospalacis		Dubinina	1973	Determ71		Spalax	MNHN Paris	Iran												female		slides	16.iii.2015
+ZFMK Ac00072			Afrolistrophorus	myospalacis		Dubinina	1973	Determ72		Spalax	MNHN Paris	Iran												female		slides	16.iii.2015
+ZFMK Ac00073			Afrolistrophorus	myospalacis		Dubinina	1973	Determ73		Spalax	MNHN Paris	Iran												female		slides	16.iii.2015
+ZFMK Ac00074	PT		Afrolistrophorus	stubbei		Fain & Lukoschus	1979	Determ74		Allactaga sibirica		Mongolia	Chovd-gol							2.vi.1974	Collector 6			male		slides	16.iii.2015
+ZFMK Ac00075	PT		Afrolistrophorus	stubbei		Fain & Lukoschus	1979	Determ75		Allactaga sibirica		Mongolia	Bulgan-gol, SW Mongolia							21.v.1975	Collector 7			female		slides	16.iii.2015
+ZFMK Ac00076	PT		Afrolistrophorus	sumatrensis		Fain	1980	Determ76		Rhizomys sumatrensis	SMF 43 687	Indonesia	Medan, Sumatra							v.1971	Collector 8					slides	16.iii.2015
+ZFMK Ac00077	PT		Afrolistrophorus	sumatrensis		Fain	1980	Determ77		Rhizomys sumatrensis	SMF 43 687	Indonesia	Medan, Sumatra							v.1971	Collector 8					slides	16.iii.2015
+ZFMK Ac00078	PT		Afrolistrophorus	sumatrensis		Fain	1980	Determ78		Rhizomys sumatrensis	SMF 43 687	Indonesia	Medan, Sumatra							v.1971	Collector 8					slides	16.iii.2015
+ZFMK Ac00079	PT		Afrolistrophorus	sumatrensis		Fain	1980	Determ79		Rhizomys sumatrensis	SMF 43 687	Indonesia	Medan, Sumatra							v.1971	Collector 8					slides	16.iii.2015
+ZFMK Ac00080			Afrolistrophorus	sumatrensis		Fain	1980	Determ80		Rhizomys sumatrensis	SMF 43 687	Indonesia	Medan, Sumatra							v.1971	Collector 8					slides	16.iii.2015
+ZFMK Ac00081			Afrolistrophorus	sumatrensis		Fain	1980	Determ81		Rhizomys sumatrensis	SMF 43 687	Indonesia	Medan, Sumatra							v.1971	Collector 8					slides	16.iii.2015
+ZFMK Ac00082			Afrolistrophorus	tachyoryctes		Coffee	1971	Determ82	1983	Tachyoryctes ruandae	SMF 29 054	Kongo	Muhavura							1957	Collector 14			male		slides	16.iii.2015
+ZFMK Ac00083			Afrolistrophorus	tachyoryctes		Coffee	1971	Determ83	1983	Tachyoryctes ruandae	SMF 29 054	Kongo	Muhavura							1957	Collector 15			female		slides	16.iii.2015
+ZFMK Ac00084			Alabidocarpus	calcaratus		Lawrence	1952	Determ84	1973	Myotis oxygnathus		Italy	Zinzulasa							30.viii.1971	Collector 16			male		slides	16.iii.2015
+ZFMK Ac00085			Alabidocarpus	calcaratus		Lawrence	1952	Determ85	1973	Myotis oxygnathus		Italy	Zinzulasa							3.viii.1971	Collector 17			female		slides	16.iii.2015
+ZFMK Ac00086	PT		Alabidocarpus	chalinolobus		Fain & Lukoschus	1979	Determ86		Chalinolobus gouldii		Australia	Beagle Bay							23.viii.1976	Collector 18				2610	slides	16.iii.2015
+ZFMK Ac00087	PT		Alabidocarpus	chalinolobus		Fain & Lukoschus	1979	Determ87		Chalinolobus gouldii		Australia	Beagle Bay							25.viii.1976	Collector 19			mixed	2616	slides	16.iii.2015
+ZFMK Ac00088	PT		Alabidocarpus	chalinolobus		Fain & Lukoschus	1979	Determ88		Chalinolobus gouldii		Australia	Beagle Bay							19.ix.1976	Collector 20			male	2743	slides	16.iii.2015
+ZFMK Ac00089			Alabidocarpus	rousetti		Fain	1970	Determ89		Rousettus shortridgei	Leiden 29054	Indonesia	Bandoeng, Java								Collector 21			male		slides	16.iii.2015
+ZFMK Ac00090			Alabidocarpus	rousetti		Fain	1970	Determ90		Rousettus shortridgei	Leiden 29054	Indonesia	Bandoeng, Java								Collector 22			mixed		slides	16.iii.2015
+ZFMK Ac00091			Alabidocarpus	rousetti		Fain	1970	Determ91		Rousettus shortridgei	Leiden 29054	Indonesia	Bandoeng, Java								Collector 23			female		slides	16.iii.2015
+ZFMK Ac00092			Alabidocarpus	rousetti		Fain	1970	Determ92		Rousettus shortridgei	Leiden 29054	Indonesia	Bandoeng, Java								Collector 24			female		slides	16.iii.2015
+ZFMK Ac00093			Alabidocarpus	rousetti		Fain	1970	Determ93		Rousettus shortridgei	Leiden 29054	Indonesia	Bandoeng, Java								Collector 25					slides	16.iii.2015
+ZFMK Ac00094	PT		Alabidopus	asiaticus		Lukoschus, Scheperboer, Fain & Nadchatram		Determ94		Rattus whiteheadi	IMR 92	Malaysia	Subang Forest, Selangor							8.v.1979	Collector 26					slides	16.iii.2015
+ZFMK Ac00095	PT		Alabidopus	asiaticus		Lukoschus, Scheperboer, Fain & Nadchatram		Determ95		Rattus whiteheadi		Malaysia	Subang Forest, Selangor							8.v.1979	Collector 27			female		slides	16.iii.2015
+ZFMK Ac00096	PT		Alabidopus	asiaticus		Lukoschus, Scheperboer, Fain & Nadchatram		Determ96		Rattus whiteheadi		Malaysia	Subang Forest, Selangor							8.v.1979	Collector 28			female		slides	16.iii.2015
+ZFMK Ac00097	PT		Alabidopus	asiaticus		Lukoschus, Scheperboer, Fain & Nadchatram		Determ97		Rattus whiteheadi	IMR 110	Malaysia	Subang Forest, Selangor							10.v.1979	Collector 29			male		slides	16.iii.2015
+ZFMK Ac00098	PT		Alabidopus	microcebus		Fain & Lukoschus	1977	Determ98		Microcebus pusillus	MNHN Paris	Madagascar								1870	Collector 30					slides	16.iii.2015
