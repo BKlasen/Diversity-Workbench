@@ -1,4 +1,4 @@
-### In der excel-Tabelle vorhandene Spalten und ihre Zuordnung im Import Wizard (DWB Version 3.0.7.7):
+*** In der excel-Tabelle vorhandene Spalten und ihre Zuordnung im Import Wizard (DWB Version 3.0.7.7):***
 
 _Catalog Nr._  
 --> Specimen/Accession/AccessionNumber (als decisive markiert)  
@@ -10,8 +10,8 @@ _Type status_
 
 _Family_  
 --> Organism 1/Hierarchy, name/Family Cache (nicht decisive)  
---> Organism 1/Identification 1.1 /TaxonomicName (addiert als vorletztes, nicht decisive, als letzte Mˆglichkeit, wenn keine Artbestimmung vorliegt; mit Transformation: Filter: Import, if content in column 3 (Genus Name) = "blank"; aufpassen dass es blank ist und nicht ein Leerzeichen in die Abfrage eingesetzt wird)  
---> Organism 1/Identification1.1/TaxonomicName (addiert, als allerletzte Mˆglichkeit, wenn gar keine Bestimmung vorliegt, eine Spalte muss ausgew‰hlt werden; mit Transformation: Filter: Import fixed value "Acari", if content in column 2 (Family) = "blank" AND if content in column 3 (Genus Name) = "blank")  
+--> Organism 1/Identification 1.1 /TaxonomicName (addiert als vorletztes, nicht decisive, als letzte M√∂glichkeit, wenn keine Artbestimmung vorliegt; mit Transformation: Filter: Import, if content in column 3 (Genus Name) = "blank"; aufpassen dass es blank ist und nicht ein Leerzeichen in die Abfrage eingesetzt wird)  
+--> Organism 1/Identification1.1/TaxonomicName (addiert, als allerletzte M√∂glichkeit, wenn gar keine Bestimmung vorliegt, eine Spalte muss ausgew√§hlt werden; mit Transformation: Filter: Import fixed value "Acari", if content in column 2 (Family) = "blank" AND if content in column 3 (Genus Name) = "blank")  
 
 
 _Genus Name_  
@@ -59,7 +59,7 @@ _Locality_
 --> Event/LocalityDescription (als decisive markiert)  
 
 _Lat und Long_  
---> werden nicht importiert (alte Koordinaten, die in verschiedenen Formaten vorliegen, zum Import wurden die Spalten "Lat_dec." bzw. "Long_dec" eingef¸gt und ¸ber ein Script in Google refine in das WGS84-Format transformiert, bei Anwendung des Skriptes darauf achten, dass der Spaltenname exakt geschrieben ist, Punkte!!!)  
+--> werden nicht importiert (alte Koordinaten, die in verschiedenen Formaten vorliegen, zum Import wurden die Spalten "Lat_dec." bzw. "Long_dec" eingef√ºgt und √ºber ein Script in Google refine in das WGS84-Format transformiert, bei Anwendung des Skriptes darauf achten, dass der Spaltenname exakt geschrieben ist, Punkte!!!)  
 
 
 _Lat_dec_  
