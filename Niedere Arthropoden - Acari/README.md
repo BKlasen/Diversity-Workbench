@@ -45,6 +45,7 @@ _Date det._
 
 _Host_  
 --> Organism **1**/ Relation/RelationType (als decisive markiert, mit Transformation: Filter: Import fixed value "Found on", if content in column 10 (Host) ungleich "blank", Vorsicht, richtige Schreibweise, da Foreign Key)  
+--> Organism **1**/Notes etc./Notes (nicht decisive; mit Pre.:"Host: ")  
 --> Organism **2**/Taxonomic Group (als decisive markiert; mit Transformation: Filter: Import fixed value "unknown", if content in column 10 (Host) ungleich "blank", Vorsicht richtige Schreibweise, da Foreign Key)   
 --> Organism **2**/ Identification **2.1**/ TaxonomicName (als decisive markiert)  
 
