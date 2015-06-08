@@ -10,3 +10,27 @@
   *  Mit "ok" bestätigen.
   
   ***
+
+
+**Verknüpfen des taxonomischen Namens mit der TaxonNames Insecta**
+
+-	Administration ->Database ->  Maintenance -> 
+-	Tab „Synchronize Database“ (oben ganz links) auswählen
+-	Tab „Collection <> Taxon Names“ auswählen (ganz links)
+-	Tab “Synchronize taxonomic names missing a connection”  auswählen
+-	Taxonomic database: “Diversity TaxonNames_Insecta” auswählen
+-	Taxonomy project: “Orthopteroidea” auswählen
+-	Project: “Orthoptera” auswählen
+-	Taxonomic project: “Insect” auswählen
+-	“Compare first parts” anklicken  und “2” eingeben
+-	„Update similar name“ mit Rank:“species“ auswählen
+
+Dann:  	„Check for identical names“ starten 
+
+-	Weiß: der Name stimmt exakt überein und wird verknüpft (ist schon vorne angehakt)
+-	Gelb: Abweichungen beim Autor (z.B. Klammern, Vorname), kann manuell angehakt werden
+-	Rot: Größere Abweichungen bei den Hauptteilen des Namens,  kann manuell angehakt werden.
+-	Blau: zu einem Namen gibt es mehrere gleiche Namen
+
+Start update: Die angehakten Namen werden in der Datenbank überschrieben mit dem Namen aus der TaxonNames_Insecta.
+Das Feld „Tax. Name“ ist hellgelb hinterlegt, wenn eine Verknüpfung besteht.
