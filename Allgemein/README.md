@@ -34,3 +34,19 @@ Dann:  	„Check for identical names“ starten
 
 Start update: Die angehakten Namen werden in der Datenbank überschrieben mit dem Namen aus der TaxonNames_Insecta.
 Das Feld „Tax. Name“ ist hellgelb hinterlegt, wenn eine Verknüpfung besteht.
+
+  ***
+  
+  **Family, Order und Hierarchy eintragen:**
+
+-	Administration ->Database ->  Maintenance -> 
+-	Tab „Synchronize Database“ (1., oben ganz links) auswählen
+-	Tab „Collection <> Taxon Names“  auswählen (2., ganz links)
+-	Tab “Hierarchy”  auswählen (3., ganz rechts)
+-	Taxonomy database: “Diversity TaxonNames_Insecta” auswählen
+-	Taxonomy project: “Orthopteroidea” auswählen
+-	Project: “Orthoptera” auswählen
+-	Taxonomic project: “Insect” auswählen
+-	Entweder „Family“, „Order“ oder „Hierarchy“ auswählen
+-	„Check for Differences“ anklicken und warten bis der Vergleich durchgelaufen ist
+-	Wenn alles richtig ist, „Start update“ drücken und die Hierarchy, etc.  wird eingetragen
