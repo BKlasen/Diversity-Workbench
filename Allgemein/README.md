@@ -53,8 +53,9 @@ Das Feld „Tax. Name“ ist hellgelb hinterlegt, wenn eine Verknüpfung besteht
 
   ***
   
-  **Koordinaten richtig in Excel einlesen (ohne automatische Umrechnung):**
-  (*Wenn man die exportierte .txt-Datei einfach mit Excel öffnet, rechnet dieses die Koordinaten automatisch in ein falsches Format um.*)
+ **Koordinaten richtig in Excel einlesen**
+  
+  (Problem: Wenn man die aus DWS exportierte .txt-Datei einfach mit Excel öffnet, rechnet dieses die Koordinaten automatisch in ein falsches Format um.)
   - Excel starten
   - die exportierte txt-Datei aus Excel aufrufen (nicht umgekehrt)
   - es erscheint der "Textkonvertierungs-Assistent"
