@@ -50,3 +50,21 @@ Das Feld „Tax. Name“ ist hellgelb hinterlegt, wenn eine Verknüpfung besteht
 -	Entweder „Family“, „Order“ oder „Hierarchy“ auswählen
 -	„Check for Differences“ anklicken und warten bis der Vergleich durchgelaufen ist
 -	Wenn alles richtig ist, „Start update“ drücken und die Hierarchy, etc.  wird eingetragen
+
+  ***
+  
+  **Koordinaten richtig in Excel einlesen (ohne automatische Umrechnung):**
+  (*Wenn man die exportierte .txt-Datei einfach mit Excel öffnet, rechnet dieses die Koordinaten automatisch in ein falsches Format um.*)
+  - Excel starten
+  - die exportierte txt-Datei aus Excel aufrufen (nicht umgekehrt)
+  - es erscheint der "Textkonvertierungs-Assistent"
+  - Schritt 1 von 3: "Getrennt" anklicken (Voreinstellung lassen) -> weiter 
+  - Schritt 2 von 3: Trennzeichen "Tabstopp" anklicken (Voreinstellung) -> weiter
+  - Schritt 3 von 3: Das Datenformat der Spalten mit den Koordinaten auf "Text" ändern -> Fertig stellen
+  
+GGf. das Datenformat des Datums auch ändern. 
+Dies funktioniert nur mit der .txt-Datei, nicht mit der .csv-Datei.
+
+
+
+
