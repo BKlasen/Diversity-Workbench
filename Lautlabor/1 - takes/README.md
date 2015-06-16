@@ -47,6 +47,11 @@ _microphone type_
 -->       _zusätzlich_: Method 1/Parameter 1.5/ **ParameterID**: For all "Sound data (Gathering): Microphone Type"  (als decisive markiert)  
 
 
+_microphone windshield_  
+--> Method 1/Parameter1.28/ **ParameterValue** (nicht decisive)  
+-->       _zusätzlich_: Method 1/Parameter 1.28/ **ParameterID**: For all "Sound data (Gathering): Microphone Windshield"  (als decisive markiert)  
+
+
 _recordist_  
 --> Agent 1/CollectorsName (als decisive markiert)  
 
