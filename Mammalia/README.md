@@ -88,6 +88,9 @@ _Specimen / Collector 2 / CollectorsName_
 --> Collectors  (mit Pre: ", "; den Spaltentrenner (dunkelgrauer Balken zwischen den Spalten anklicken -> wird aufgehoben (hellgrau) und alle Sammler werden in eine Spalte geschrieben)  
 
 
+_____________________________________________________________________________
+Abfrage über MAterial Kategorie noch nicht komplett eingebaut, da einige Material Kategorien doppelt belegt sind (pelt für skin- und alkohol-Präparate)
+_____________________________________________________________________________
 
 
 _weitere Hinweise:_  
