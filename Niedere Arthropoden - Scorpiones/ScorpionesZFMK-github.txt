@@ -1,26 +1,26 @@
 Catalog Nr.	Family	Species Name	Author	Determined by	Country	Locality	Lat.	Lat_dec.	Long.	Long_dec	Ecology	Altitude	Altitude (m)	Date	Year	Collector	Collectors	Notes	Sex
-ZFMK Sc0001	Buthidae	Androctonus amoreuxi	(Audouin, 1826)		ALGERIA	20 km N Bou SaÃ¢da, M'sila Dept., high plain of the Chott								25.iii.1976	1976	H.E. Collector & al.	H.E. Collector/et al.		
-ZFMK Sc0002	Buthidae	Androctonus amoreuxi	(Audouin, 1826)		ALGERIA	50 km E GhardaÃ¯a, Laghouat Dept.								23.v.1976	1976	H.E. Collector & K. Collector	H.E. Collector/K. Collector		
-ZFMK Sc0003	Buthidae	Androctonus amoreuxi	(Audouin, 1826)		EGYPT	Al-Isma`iliyah, Lower Egypt, Al-IsmaÃ¬liyah gov.										Collector?	Collector?	no data	
-ZFMK Sc0004	Buthidae	Androctonus amoreuxi	(Audouin, 1826)		EGYPT	Hihya, Lower Egypt , Ash Sharqiyah										Collector	Collector	"""coll. OberthÃ¼r"""	
-ZFMK Sc0005	Buthidae	Androctonus australis	(LinnÃ©, 1758)			Biskoa								iii.1892	1892			had dried up	
-ZFMK Sc0006	Buthidae	Androctonus australis	(LinnÃ©, 1758)			Biskoa								iii.1892	1892			had dried up	
-ZFMK Sc0007	Buthidae	Androctonus australis	(LinnÃ©, 1758)											20.iii.?		Collector	Collector	had dried up	
-ZFMK Sc0008	Buthidae	Androctonus australis	(LinnÃ©, 1758)	F. Krapp															
-ZFMK Sc0009	Buthidae	Androctonus australis	(LinnÃ©, 1758)													Collector	Collector	"""Rennes"""	
-ZFMK Sc0010	Buthidae	Androctonus australis	(LinnÃ©, 1758)		ALGERIA	20 km N Bou SaÃ¢da, M'sila Dept., high plain of the Chott								20.iii.1976	1976	H.E. Collector & al.	H.E. Collector/et al.		
-ZFMK Sc0011	Buthidae	Androctonus australis	(LinnÃ©, 1758)		ALGERIA	Beskra, Beskra Dept.												OberthÃ¼r ex Changlome	
-ZFMK Sc0012	Buthidae	Androctonus australis	(LinnÃ©, 1758)		ALGERIA	Beskra, Beskra Dept.												R. OberthÃ¼r ex Changlome	
-ZFMK Sc0013	Buthidae	Androctonus australis	(LinnÃ©, 1758)	F. Krapp	ALGERIA	Beskra, Beskra Dept.								iii.1892	1892			had dried up	
-ZFMK Sc0014	Buthidae	Androctonus australis	(LinnÃ©, 1758)		ALGERIA	TadmeÃ¯t								iii.1913	1913	P. Collector	Collector	had dried up	
-ZFMK Sc0015	Buthidae	Androctonus australis	(LinnÃ©, 1758)		EGYPT	Cairo								i.1897	1897			had dried up	
-ZFMK Sc0016	Buthidae	Androctonus australis	(LinnÃ©, 1758)		ETHIOPIA	Lake Stephanie								18.vi.1976	1976	G. Collector	G. Collector		
-ZFMK Sc0017	Buthidae	Androctonus australis	(LinnÃ©, 1758)		TUNISIA	50 km NE Gafsa, Sidi Ali Ben Aoun, Gafsa govn.								v.1976	1976	H.E. Collector & K. Collector	H.E. Collector/K. Collector		
+ZFMK Sc0001	Buthidae	Androctonus amoreuxi	(Audouin, 1826)		ALGERIA	20 km N Bou Saâda, M'sila Dept., high plain of the Chott								25.iii.1976	1976	H.E. Collector & al.	H.E. Collector/et al.		
+ZFMK Sc0002	Buthidae	Androctonus amoreuxi	(Audouin, 1826)		ALGERIA	50 km E Ghardaïa, Laghouat Dept.								23.v.1976	1976	H.E. Collector & K. Collector	H.E. Collector/K. Collector		
+ZFMK Sc0003	Buthidae	Androctonus amoreuxi	(Audouin, 1826)		EGYPT	Al-Isma`iliyah, Lower Egypt, Al-Ismaìliyah gov.										Collector?	Collector?	no data	
+ZFMK Sc0004	Buthidae	Androctonus amoreuxi	(Audouin, 1826)		EGYPT	Hihya, Lower Egypt , Ash Sharqiyah										Collector	Collector	"""coll. Oberthür"""	
+ZFMK Sc0005	Buthidae	Androctonus australis	(Linné, 1758)			Biskoa								iii.1892	1892			had dried up	
+ZFMK Sc0006	Buthidae	Androctonus australis	(Linné, 1758)			Biskoa								iii.1892	1892			had dried up	
+ZFMK Sc0007	Buthidae	Androctonus australis	(Linné, 1758)											20.iii.?		Collector	Collector	had dried up	
+ZFMK Sc0008	Buthidae	Androctonus australis	(Linné, 1758)	D.Determinator															
+ZFMK Sc0009	Buthidae	Androctonus australis	(Linné, 1758)													Collector	Collector	"""Rennes"""	
+ZFMK Sc0010	Buthidae	Androctonus australis	(Linné, 1758)		ALGERIA	20 km N Bou Saâda, M'sila Dept., high plain of the Chott								20.iii.1976	1976	H.E. Collector & al.	H.E. Collector/et al.		
+ZFMK Sc0011	Buthidae	Androctonus australis	(Linné, 1758)		ALGERIA	Beskra, Beskra Dept.												Oberthür ex Changlome	
+ZFMK Sc0012	Buthidae	Androctonus australis	(Linné, 1758)		ALGERIA	Beskra, Beskra Dept.												R. Oberthür ex Changlome	
+ZFMK Sc0013	Buthidae	Androctonus australis	(Linné, 1758)	D.Determinator	ALGERIA	Beskra, Beskra Dept.								iii.1892	1892			had dried up	
+ZFMK Sc0014	Buthidae	Androctonus australis	(Linné, 1758)		ALGERIA	Tadmeït								iii.1913	1913	P. Collector	Collector	had dried up	
+ZFMK Sc0015	Buthidae	Androctonus australis	(Linné, 1758)		EGYPT	Cairo								i.1897	1897			had dried up	
+ZFMK Sc0016	Buthidae	Androctonus australis	(Linné, 1758)		ETHIOPIA	Lake Stephanie								18.vi.1976	1976	G. Collector	G. Collector		
+ZFMK Sc0017	Buthidae	Androctonus australis	(Linné, 1758)		TUNISIA	50 km NE Gafsa, Sidi Ali Ben Aoun, Gafsa govn.								v.1976	1976	H.E. Collector & K. Collector	H.E. Collector/K. Collector		
 ZFMK Sc0018	Buthidae	Androctonus bicolor	Ehrenberg, 1828		EGYPT	Monastery of Saint Catherine, Desert, Janub Sinai								ix.1992	1992	Collector	Collector		
-ZFMK Sc0019	Buthidae	Androctonus crassicauda	(Olivier, 1807)	F. Krapp (1988)	IRAQ	Basra, Al-Basrah governorate								x.1976	1976	B. Collector	B. Collector		
+ZFMK Sc0019	Buthidae	Androctonus crassicauda	(Olivier, 1807)	D.Determinator	IRAQ	Basra, Al-Basrah governorate								x.1976	1976	B. Collector	B. Collector		
 ZFMK Sc0020	Buthidae	Androctonus hoggarensis	(Pallary, 1929)		ALGERIA	Hoggar, Guelta Afilale, Tamenghest Dept.								9.-10.iv.1976	1976	H.E. Collector et al.	H.E. Collector/et al.		
-ZFMK Sc0021	Buthidae	Babycurus gigas	Kraepelin, 1896	F. Werner														had dried up	
+ZFMK Sc0021	Buthidae	Babycurus gigas	Kraepelin, 1896	F.Determinator														had dried up	
 ZFMK Sc0022	Buthidae	Babycurus gigas	Kraepelin, 1896															had dried up	
 ZFMK Sc0023	Buthidae	Babycurus jacksoni	(Pocock, 1902)		KENYA													had dried up	
-ZFMK Sc0024	Buthidae	Babycurus sp.?				CÃ”TE D'AFRIQUE												OberthÃ¼r ex Dieterle	
+ZFMK Sc0024	Buthidae	Babycurus sp.?				CÔTE D'AFRIQUE												Oberthür ex Dieterle	
 ZFMK Sc0025	Buthidae	Buthidae, juvenile			EGYPT	Wadi Firan, Sinai								13.iii.1898	1898			had dried up	
